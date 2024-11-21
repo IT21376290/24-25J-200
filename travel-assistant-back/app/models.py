@@ -51,6 +51,10 @@ class User(db.Model):
         return f'<User {self.first_name} {self.last_name}>'
 
 
+# Recipe Model
+class Recipe(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(100), nullable=False)
 
 
 # Iternery Model
