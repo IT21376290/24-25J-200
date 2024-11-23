@@ -61,7 +61,13 @@ class Recipe(db.Model):
     instructions = db.Column(db.JSON, nullable=False)
     cover_image = db.Column(db.String(150), nullable=False)
    
+ user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)  
 
+    Establishing relationship with User
+    user = db.relationship('User', backref=db.backref('recipes', lazy=True))
+
+    def __repr__(self):
+        return f"<Recipe {self.name}>"
 
 # Iternery Model
 class Iternery(db.Model):
