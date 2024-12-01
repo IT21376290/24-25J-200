@@ -133,3 +133,25 @@ def update_recipe(id):
 
     except Exception as e:
         return jsonify({"message": str(e), "code": 500}), 500
+
+# DELETE recipe by ID (requires JWT)
+@app.route('/api/v1/recipes/<int:id>', methods=['DELETE'])
+@jwt_required()
+def delete_recipe(id):
+    try:
+        recipe = Recipe.query.get(id)
+        if not recipe:
+            return jsonify({"message": "Recipe not found", "code": 404}), 404
+
+        db.session.delete(recipe)
+        db.session.commit()
+
+        response_data = {
+            "message": "Recipe deleted successfully",
+            "code": 200
+        }
+
+        return jsonify(response_data), 200
+
+    except Exception as e:
+        return jsonify({"message": str(e), "code": 500}), 500
