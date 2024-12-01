@@ -1,0 +1,1001 @@
+Place Name,Latitude,Longitude,Cost,Categories,Sub Places
+Place_1,7.591243,80.925954,14209,"Nature, Beach, Wildlife","Nine Arches Bridge, Little Adam's Peak, Mirissa Beach, Jungle Beach, Temple of the Tooth"
+Place_2,6.890975,79.710062,12907,"Adventure, Nature","Yala National Park, Polonnaruwa Ruins"
+Place_3,7.564333,81.675479,16741,"Religious, Wildlife",Udawalawe National Park
+Place_4,8.67666,81.508631,13833,"Cultural, Nature",Nine Arches Bridge
+Place_5,9.49886,80.065566,12820,Cultural,"Mirissa Beach, Udawalawe National Park, Gregory Lake, Polonnaruwa Ruins"
+Place_6,8.30779,80.419653,18167,Wildlife,"Sigiriya Museum, Pidurangala Rock,Dambulla Cave Temple"
+Place_7,9.581303,80.300891,17858,"Cultural, Religious","Little Adam's Peak, Ruwanwelisaya Stupa,Thuparamaya,Jetavanaramaya Stupa, Jaya Sri Maha Bodhi, Udawalawe National Park"
+Place_8,6.034005,81.774072,17653,"Nature, Adventure","Little Adam's Peak, Adam's Peak, Arugam Bay, Jungle Beach, Udawalawe National Park"
+Place_9,9.552195,80.724346,13719,"Nature, Religious","Little Adam's Peak, Jaya Sri Maha Bodhi, Galle Fort, Sigiriya Museum, Mirissa Beach"
+Place_10,9.485734,80.156958,17379,Nature,"Adam's Peak, Horton Plains, Gregory Lake, Haggala Garden"
+Place_11,9.630933,80.537002,2500,"Nature, Religious, Beach",Galle Fort
+Place_12,8.165794,80.362798,8627,"Religious, Adventure","Dambulla Cave Temple Pidurangala Rock,Sigiriya Museum"
+Place_13,6.860642,81.867935,13894,"Nature, Beach","Mirissa Beach, Yala National Park, Galle Fort"
+Place_14,8.026796,81.093991,4774,Religious,Dambulla Cave Temple
+Place_15,7.783909,80.724976,14682,"Adventure, Cultural","Adam's Peak, Udawalawe National Park, Galle Fort, Arugam Bay"
+Place_16,7.347972,81.629221,14776,"Cultural, Adventure, Wildlife","Udawalawe National Park, Little Adam's Peak, Arugam Bay"
+Place_17,7.49555,80.465187,3618,"Nature, Religious, Cultural",Dambulla Cave Temple
+Place_18,7.947507,80.561172,9500,"Nature, Religious, Adventure","Jungle Beach, Little Adam's Peak"
+Place_19,7.914328,80.681049,15456,"Wildlife, Religious, Adventure","Ruwanwelisaya Stupa, Pidurangala Rock, Ambewela Farm, Polonnaruwa Ruins, Sigiriya Museum"
+Place_20,9.293251,81.777164,14150,"Cultural, Beach, Nature","Little Adam's Peak, Ruwanwelisaya Stupa, Mirissa Beach, Temple of the Tooth"
+Place_21,9.590128,81.572216,8568,"Cultural, Beach, Nature","Udawalawe National Park, Gregory Lake, Horton Plains, Polonnaruwa Ruins, Galle Fort"
+Place_22,6.828535,79.908499,8973,"Religious, Adventure","Pidurangala Rock, Little Adam's Peak"
+Place_23,6.813458,81.65036,8187,"Wildlife, Cultural","Sigiriya Museum, Ruwanwelisaya Stupa"
+Place_24,6.970213,80.893276,9976,Beach,"Jungle Beach, Dambulla Cave Temple, Mirissa Beach"
+Place_25,9.435926,81.710493,17426,Nature,"Little Adam's Peak, Dambulla Cave Temple, Adam's Peak, Nine Arches Bridge"
+Place_26,6.04273,80.889768,15380,"Wildlife, Nature, Beach","Polonnaruwa Ruins, Temple of the Tooth, Gregory Lake, Haggala Garden"
+Place_27,7.569048,81.667533,12541,"Nature, Beach","Little Adam's Peak, Udawalawe National Park, Yala National Park, Nine Arches Bridge"
+Place_28,7.977884,80.944724,14796,"Wildlife, Nature, Cultural","Yala National Park, Dambulla Cave Temple, Udawalawe National Park"
+Place_29,6.075448,79.991437,12877,"Beach, Cultural","Udawalawe National Park, Pidurangala Rock, Gregory Lake"
+Place_30,7.397059,80.211138,16498,"Religious, Beach","Adam's Peak, Dambulla Cave Temple, Polonnaruwa Ruins"
+Place_31,9.761093,80.841296,9250,Cultural,"Mirissa Beach, Galle Fort"
+Place_32,9.585226,81.213844,2500,"Cultural, Religious, Beach",Horton Plains
+Place_33,8.131993,81.265545,7114,"Adventure, Nature","Haggala Garden, Horton Plains"
+Place_34,7.082715,80.891912,19809,"Beach, Cultural, Wildlife","Little Adam's Peak, Jaya Sri Maha Bodhi, Udawalawe National Park, Yala National Park"
+Place_35,7.924542,81.571111,14726,"Nature, Wildlife","Mirissa Beach, Haggala Garden, Little Adam's Peak"
+Place_36,8.540806,81.289055,6000,Cultural,Yala National Park
+Place_37,7.56306,81.751737,8000,"Adventure, Cultural","Jungle Beach, Adam's Peak"
+Place_38,8.444338,81.363968,28605,"Wildlife, Adventure","Pidurangala Rock, Udawalawe National Park, Mirissa Beach, Ruwanwelisaya Stupa, Galle Fort"
+Place_39,8.789234,81.634274,16633,"Beach, Adventure, Cultural","Mirissa Beach, Pidurangala Rock, Gregory Lake"
+Place_40,7.511646,80.166022,12522,Religious,"Arugam Bay, Gregory Lake, Dambulla Cave Temple, Pidurangala Rock, Jungle Beach"
+Place_41,8.590275,81.322568,4000,"Religious, Nature, Adventure",Haggala Garden
+Place_42,8.64701,81.327957,6413,Wildlife,"Sigiriya Museum, Little Adam's Peak"
+Place_43,8.801494,80.787223,12500,Nature,"Pidurangala Rock, Ambewela Farm, Horton Plains, Temple of the Tooth, Dambulla Cave Temple"
+Place_44,7.696728,80.439591,9860,Beach,"Jungle Beach, Dambulla Cave Temple"
+Place_45,9.420089,81.639668,6817,"Cultural, Nature","Adam's Peak, Jungle Beach"
+Place_46,7.960027,80.440009,3447,Adventure,"Ambewela Farm, Yala National Park"
+Place_47,9.403017,81.425476,3124,"Adventure, Nature, Wildlife","Temple of the Tooth, Haggala Garden, Udawalawe National Park"
+Place_48,9.534668,80.256694,9702,Wildlife,Jungle Beach
+Place_49,9.399236,80.527213,2923,Wildlife,"Mirissa Beach, Arugam Bay"
+Place_50,7.673456,81.000918,2526,"Nature, Beach","Galle Fort, Temple of the Tooth"
+Place_51,9.538181,79.834873,7716,Nature,"Horton Plains, Haggala Garden"
+Place_52,6.550682,81.874052,2999,"Nature, Beach, Religious",Horton Plains
+Place_53,9.606102,81.338058,7102,"Beach, Religious",Sigiriya Museum
+Place_54,9.620122,81.776535,12427,Adventure,"Galle Fort, Udawalawe National Park, Polonnaruwa Ruins"
+Place_55,9.118035,79.930721,9480,"Wildlife, Cultural, Nature","Ruwanwelisaya Stupa, Polonnaruwa Ruins"
+Place_56,6.78218,81.245341,8589,Religious,"Pidurangala Rock, Jungle Beach"
+Place_57,9.362887,80.003512,13456,"Adventure, Cultural","Galle Fort, Nine Arches Bridge"
+Place_58,7.476,80.138068,6862,"Beach, Adventure, Nature",Adam's Peak
+Place_59,7.538644,81.424705,13926,"Religious, Cultural","Sigiriya Museum, Pidurangala Rock, Temple of the Tooth, Jungle Beach, Udawalawe National Park"
+Place_60,6.040194,79.756019,15665,"Beach, Cultural","Ambewela Farm, Sigiriya Museum"
+Place_61,7.243542,81.45763,14923,"Wildlife, Nature, Beach","Nine Arches Bridge, Gregory Lake, Dambulla Cave Temple, Little Adam's Peak, Sigiriya Museum"
+Place_62,6.312071,81.802376,9977,Adventure,"Little Adam's Peak, Arugam Bay, Adam's Peak"
+Place_63,8.661759,80.12106,6210,Nature,"Horton Plains, Jaya Sri Maha Bodhi"
+Place_64,8.087215,81.09057,16490,Religious,"Gregory Lake, Temple of the Tooth, Arugam Bay, Mirissa Beach"
+Place_65,8.579322,81.676599,17633,"Beach, Cultural, Wildlife","Jaya Sri Maha Bodhi, Ruwanwelisaya Stupa, Mirissa Beach, Yala National Park, Nine Arches Bridge"
+Place_66,7.293922,81.276505,5408,"Nature, Cultural","Little Adam's Peak, Gregory Lake, Temple of the Tooth"
+Place_67,9.659788,81.150192,7036,"Beach, Adventure","Dambulla Cave Temple, Udawalawe National Park"
+Place_68,8.364768,81.251689,15268,Nature,"Ambewela Farm, Gregory Lake, Temple of the Tooth, Adam's Peak"
+Place_69,7.274946,80.41324,12932,Adventure,"Nine Arches Bridge, Ambewela Farm, Ruwanwelisaya Stupa, Haggala Garden"
+Place_70,7.300866,81.67348,8003,"Adventure, Religious, Beach","Polonnaruwa Ruins, Sigiriya Museum"
+Place_71,7.998256,80.670758,12429,"Adventure, Nature","Jungle Beach, Yala National Park, Ambewela Farm, Gregory Lake"
+Place_72,7.422907,79.868663,3971,Religious,Udawalawe National Park
+Place_73,7.792783,80.436417,18562,"Adventure, Beach, Religious","Arugam Bay, Little Adam's Peak, Udawalawe National Park, Mirissa Beach"
+Place_74,8.217235,81.234268,15000,"Nature, Adventure","Galle Fort, Dambulla Cave Temple"
+Place_75,9.407518,81.429442,14924,"Wildlife, Adventure","Nine Arches Bridge, Mirissa Beach"
+Place_76,6.525889,80.760717,2605,"Cultural, Religious, Beach",Jaya Sri Maha Bodhi
+Place_77,6.96942,81.562226,8685,Beach,"Nine Arches Bridge, Pidurangala Rock"
+Place_78,9.499854,80.683513,17000,"Cultural, Adventure, Religious","Galle Fort, Horton Plains, Polonnaruwa Ruins, Jungle Beach, Mirissa Beach"
+Place_79,8.053314,81.19556,17824,"Beach, Cultural, Wildlife","Dambulla Cave Temple, Ruwanwelisaya Stupa, Temple of the Tooth"
+Place_80,9.116621,79.933544,18605,Wildlife,"Udawalawe National Park, Sigiriya Museum, Haggala Garden, Pidurangala Rock, Mirissa Beach"
+Place_81,9.054603,81.733914,9000,Adventure,"Haggala Garden, Little Adam's Peak"
+Place_82,8.617339,81.876432,11000,Wildlife,"Sigiriya Museum, Jaya Sri Maha Bodhi, Gregory Lake"
+Place_83,8.942031,81.600145,16504,Wildlife,"Mirissa Beach, Jungle Beach, Little Adam's Peak"
+Place_84,9.4592,79.910428,18640,"Cultural, Wildlife","Little Adam's Peak, Galle Fort, Temple of the Tooth, Gregory Lake"
+Place_85,6.331216,79.755127,7000,"Nature, Beach, Religious","Haggala Garden, Dambulla Cave Temple"
+Place_86,9.132263,80.506424,13793,Beach,"Jaya Sri Maha Bodhi, Ambewela Farm, Horton Plains, Nine Arches Bridge, Udawalawe National Park"
+Place_87,8.150921,80.853604,19818,"Wildlife, Religious","Ruwanwelisaya Stupa, Haggala Garden, Gregory Lake"
+Place_88,7.280092,80.673111,16772,Nature,"Pidurangala Rock, Polonnaruwa Ruins, Udawalawe National Park"
+Place_89,9.24326,80.685393,13818,Beach,"Udawalawe National Park, Horton Plains, Ruwanwelisaya Stupa"
+Place_90,9.638296,81.155092,13075,"Beach, Religious","Gregory Lake, Polonnaruwa Ruins, Nine Arches Bridge, Udawalawe National Park, Ambewela Farm"
+Place_91,7.408969,79.98994,7960,"Nature, Beach, Adventure",Little Adam's Peak
+Place_92,6.630529,80.262845,13943,"Nature, Beach, Religious","Jungle Beach, Adam's Peak"
+Place_93,7.268045,80.864818,19098,Religious,"Ambewela Farm, Arugam Bay, Adam's Peak, Ruwanwelisaya Stupa, Pidurangala Rock"
+Place_94,9.146054,80.345096,12800,"Adventure, Nature, Cultural","Arugam Bay, Pidurangala Rock"
+Place_95,7.370165,81.120499,18580,"Adventure, Beach, Religious","Horton Plains, Ruwanwelisaya Stupa, Yala National Park"
+Place_96,9.141248,81.067168,12135,"Wildlife, Beach, Religious","Polonnaruwa Ruins, Yala National Park, Nine Arches Bridge, Mirissa Beach, Galle Fort"
+Place_97,9.254585,80.628625,2750,"Wildlife, Beach","Sigiriya Museum, Adam's Peak, Temple of the Tooth, Jungle Beach"
+Place_98,7.747722,80.120861,15589,"Adventure, Beach","Pidurangala Rock, Udawalawe National Park, Horton Plains"
+Place_99,7.670516,81.445587,6434,Beach,"Horton Plains, Haggala Garden, Dambulla Cave Temple"
+Place_100,8.204096,80.326478,2964,Wildlife,"Pidurangala Rock, Dambulla Cave Temple"
+Place_101,9.752774,80.226728,13140,"Religious, Wildlife","Yala National Park, Jungle Beach, Pidurangala Rock"
+Place_102,9.616095,80.304187,16766,"Wildlife, Beach","Galle Fort, Pidurangala Rock, Horton Plains, Mirissa Beach, Gregory Lake"
+Place_103,9.292094,81.213085,15883,"Beach, Nature","Adam's Peak, Udawalawe National Park, Little Adam's Peak"
+Place_104,8.029699,80.281084,18163,Religious,"Dambulla Cave Temple, Arugam Bay, Horton Plains, Jaya Sri Maha Bodhi"
+Place_105,9.742715,80.421104,13793,Religious,"Sigiriya Museum, Gregory Lake, Pidurangala Rock, Horton Plains"
+Place_106,7.141504,81.833449,16511,"Adventure, Religious, Wildlife","Ambewela Farm, Adam's Peak, Jungle Beach, Nine Arches Bridge, Jaya Sri Maha Bodhi"
+Place_107,6.038466,80.106733,12079,"Beach, Religious, Nature","Yala National Park, Temple of the Tooth, Mirissa Beach"
+Place_108,7.97177,79.889454,3102,Adventure,"Polonnaruwa Ruins, Galle Fort, Mirissa Beach"
+Place_109,8.196812,80.439668,15460,"Wildlife, Adventure, Beach","Horton Plains, Ambewela Farm, Gregory Lake"
+Place_110,9.511054,80.897734,6046,Wildlife,"Sigiriya Museum, Jaya Sri Maha Bodhi, Ruwanwelisaya Stupa, Gregory Lake, Temple of the Tooth"
+Place_111,6.087835,81.068602,14017,"Beach, Cultural, Wildlife","Mirissa Beach, Temple of the Tooth, Haggala Garden, Jaya Sri Maha Bodhi"
+Place_112,6.111577,80.998225,15206,Nature,"Gregory Lake, Galle Fort, Dambulla Cave Temple, Ruwanwelisaya Stupa"
+Place_113,8.938391,81.036579,8876,"Nature, Cultural","Yala National Park, Adam's Peak, Mirissa Beach"
+Place_114,9.245249,81.687663,16750,"Religious, Cultural","Haggala Garden, Pidurangala Rock, Udawalawe National Park"
+Place_115,7.162711,79.910178,15584,"Beach, Cultural","Sigiriya Museum, Polonnaruwa Ruins, Yala National Park, Haggala Garden, Ambewela Farm"
+Place_116,8.551107,79.833667,13891,"Religious, Cultural, Adventure","Little Adam's Peak, Ruwanwelisaya Stupa"
+Place_117,6.149857,81.277678,7747,"Adventure, Religious, Nature","Temple of the Tooth, Little Adam's Peak, Gregory Lake, Ambewela Farm"
+Place_118,9.059504,80.619705,7388,"Wildlife, Beach, Adventure","Temple of the Tooth, Arugam Bay, Mirissa Beach, Nine Arches Bridge"
+Place_119,7.90682,80.772249,13967,"Cultural, Wildlife","Udawalawe National Park, Ruwanwelisaya Stupa, Adam's Peak"
+Place_120,9.088366,79.980126,9784,"Cultural, Adventure","Jaya Sri Maha Bodhi, Horton Plains, Pidurangala Rock"
+Place_121,7.332805,80.666563,9331,Religious,"Ruwanwelisaya Stupa, Mirissa Beach, Horton Plains"
+Place_122,8.69597,81.388324,13551,"Nature, Wildlife","Adam's Peak, Gregory Lake, Horton Plains, Ruwanwelisaya Stupa, Dambulla Cave Temple"
+Place_123,8.595549,81.725027,16328,Nature,"Adam's Peak, Jaya Sri Maha Bodhi, Arugam Bay, Polonnaruwa Ruins"
+Place_124,7.783341,81.255135,12786,"Adventure, Religious","Sigiriya Museum, Haggala Garden, Adam's Peak"
+Place_125,7.13636,81.634997,5000,"Cultural, Religious","Haggala Garden, Jaya Sri Maha Bodhi"
+Place_126,8.007887,79.935777,15943,Beach,"Yala National Park, Pidurangala Rock, Udawalawe National Park, Ruwanwelisaya Stupa, Dambulla Cave Temple"
+Place_127,9.532054,79.953328,7012,"Cultural, Beach, Nature",Temple of the Tooth
+Place_128,7.317481,81.664134,13226,"Nature, Wildlife, Religious","Nine Arches Bridge, Polonnaruwa Ruins, Ruwanwelisaya Stupa, Udawalawe National Park"
+Place_129,9.717338,81.877219,8334,Cultural,"Nine Arches Bridge, Horton Plains, Arugam Bay"
+Place_130,7.121811,81.724853,15285,"Cultural, Adventure","Arugam Bay, Mirissa Beach, Pidurangala Rock, Gregory Lake"
+Place_131,8.674243,80.177388,3000,Cultural,Mirissa Beach
+Place_132,9.471843,81.799259,2000,"Adventure, Religious",Jaya Sri Maha Bodhi
+Place_133,6.133291,80.555178,1490,"Wildlife, Nature, Beach",Pidurangala Rock
+Place_134,8.216691,79.717248,5000,Cultural,Temple of the Tooth
+Place_135,8.91965,80.193892,9890,Wildlife,Udawalawe National Park
+Place_136,6.044173,80.637556,19000,"Wildlife, Nature","Mirissa Beach, Horton Plains"
+Place_137,6.240503,81.164687,25655,"Cultural, Religious","Arugam Bay, Adam's Peak"
+Place_138,7.830577,81.207866,24483,"Adventure, Cultural, Beach","Temple of the Tooth, Polonnaruwa Ruins"
+Place_139,8.337911,80.13517,33054,Adventure,"Jaya Sri Maha Bodhi, Horton Plains, Adam's Peak"
+Place_140,9.427348,80.760691,9862,"Beach, Cultural, Wildlife",Adam's Peak
+Place_141,9.128663,81.880833,54044,Cultural,"Yala National Park, Temple of the Tooth, Jaya Sri Maha Bodhi"
+Place_142,7.0473,79.926323,20934,"Nature, Beach, Wildlife","Polonnaruwa Ruins, Arugam Bay, Nine Arches Bridge, Ambewela Farm, Ruwanwelisaya Stupa"
+Place_143,9.670804,80.533347,5667,Adventure,"Polonnaruwa Ruins, Galle Fort"
+Place_144,7.63743,79.948687,55994,"Nature, Wildlife","Haggala Garden, Nine Arches Bridge, Adam's Peak, Polonnaruwa Ruins, Little Adam's Peak"
+Place_145,6.366685,81.235542,8722,Religious,"Haggala Garden, Yala National Park, Ruwanwelisaya Stupa, Dambulla Cave Temple"
+Place_146,6.312144,81.476476,86414,"Nature, Religious","Haggala Garden, Temple of the Tooth, Pidurangala Rock, Jungle Beach"
+Place_147,7.755832,81.644052,13009,"Nature, Cultural, Beach","Haggala Garden, Temple of the Tooth"
+Place_148,6.996154,80.064923,16437,Wildlife,"Jungle Beach, Horton Plains, Haggala Garden, Little Adam's Peak, Udawalawe National Park"
+Place_149,6.839948,80.874097,15008,Wildlife,"Udawalawe National Park, Dambulla Cave Temple, Pidurangala Rock"
+Place_150,7.281336,81.604673,7191,Adventure,"Ambewela Farm, Adam's Peak"
+Place_151,8.46803,81.653536,17732,"Adventure, Religious, Nature","Pidurangala Rock, Jungle Beach"
+Place_152,9.10556,79.744434,19764,Wildlife,"Pidurangala Rock, Haggala Garden"
+Place_153,7.086475,80.924205,17814,"Adventure, Beach, Nature","Little Adam's Peak, Haggala Garden"
+Place_154,8.319506,79.8333,15970,Adventure,"Ruwanwelisaya Stupa, Sigiriya Museum, Gregory Lake, Arugam Bay, Haggala Garden"
+Place_155,8.036128,80.080363,16870,Beach,"Dambulla Cave Temple, Gregory Lake"
+Place_156,9.617358,80.42741,12003,"Religious, Adventure, Beach",Temple of the Tooth
+Place_157,8.981558,80.526393,7596,Religious,Yala National Park
+Place_158,6.307348,81.764203,19855,"Cultural, Religious","Horton Plains, Udawalawe National Park, Polonnaruwa Ruins, Ambewela Farm"
+Place_159,9.441625,80.209381,13205,"Nature, Adventure, Religious","Mirissa Beach, Galle Fort, Horton Plains, Jungle Beach"
+Place_160,6.534184,80.831504,3349,"Cultural, Wildlife",Yala National Park
+Place_161,9.159061,81.491325,18567,"Cultural, Religious, Beach","Horton Plains, Dambulla Cave Temple, Polonnaruwa Ruins, Arugam Bay"
+Place_162,8.455664,80.518956,7237,"Wildlife, Nature, Religious","Ambewela Farm, Adam's Peak"
+Place_163,9.249033,81.233087,3531,"Cultural, Nature, Beach",Udawalawe National Park
+Place_164,9.385409,81.252116,5503,"Adventure, Nature",Yala National Park
+Place_165,6.558673,80.525353,2737,Beach,Jungle Beach
+Place_166,8.512431,80.724203,14870,"Nature, Beach","Dambulla Cave Temple, Udawalawe National Park, Horton Plains, Jungle Beach, Gregory Lake"
+Place_167,6.34448,80.335922,9117,"Wildlife, Adventure",Ambewela Farm
+Place_168,8.786862,81.64134,16796,Wildlife,"Jaya Sri Maha Bodhi, Adam's Peak, Udawalawe National Park, Yala National Park"
+Place_169,8.51785,81.086807,3761,Beach,Sigiriya Museum
+Place_170,9.316116,80.61133,19293,"Nature, Wildlife, Adventure","Pidurangala Rock, Little Adam's Peak, Mirissa Beach, Haggala Garden"
+Place_171,7.557885,81.017156,13885,"Beach, Nature","Dambulla Cave Temple, Gregory Lake"
+Place_172,8.963021,81.287272,14696,Nature,"Sigiriya Museum, Haggala Garden"
+Place_173,7.507727,81.509803,12675,Adventure,"Ambewela Farm, Jaya Sri Maha Bodhi, Little Adam's Peak, Ruwanwelisaya Stupa"
+Place_174,7.65122,80.389065,18139,"Religious, Beach","Arugam Bay, Jaya Sri Maha Bodhi, Jungle Beach, Ambewela Farm"
+Place_175,9.174093,81.022604,18137,"Nature, Beach, Wildlife","Yala National Park, Horton Plains, Sigiriya Museum"
+Place_176,6.749197,80.991678,17687,"Adventure, Religious","Udawalawe National Park, Arugam Bay, Adam's Peak, Nine Arches Bridge"
+Place_177,6.647496,80.129034,17514,"Cultural, Religious","Ambewela Farm, Adam's Peak, Pidurangala Rock, Nine Arches Bridge"
+Place_178,8.798961,80.827149,4918,"Religious, Nature, Adventure",Ruwanwelisaya Stupa
+Place_179,8.242718,81.22603,4151,"Adventure, Cultural, Religious",Galle Fort
+Place_180,7.695391,81.193482,12811,"Religious, Cultural","Jungle Beach, Pidurangala Rock, Udawalawe National Park"
+Place_181,8.280453,80.670051,4000,Beach,Adam's Peak
+Place_182,7.729501,81.665814,4337,Wildlife,Temple of the Tooth
+Place_183,7.456851,81.595221,19265,"Religious, Wildlife, Beach","Pidurangala Rock, Jaya Sri Maha Bodhi"
+Place_184,7.631001,80.581118,7669,Beach,Pidurangala Rock
+Place_185,8.137695,80.173439,17827,"Wildlife, Nature","Adam's Peak, Jaya Sri Maha Bodhi, Gregory Lake"
+Place_186,9.715301,79.783684,19895,"Religious, Cultural","Nine Arches Bridge, Haggala Garden, Udawalawe National Park"
+Place_187,8.916969,81.544205,3535,Beach,Pidurangala Rock
+Place_188,8.971849,81.539047,16838,"Adventure, Cultural, Beach","Horton Plains, Temple of the Tooth, Ruwanwelisaya Stupa"
+Place_189,9.595432,79.72173,14730,"Nature, Beach","Adam's Peak, Ruwanwelisaya Stupa, Dambulla Cave Temple"
+Place_190,6.840192,80.402197,5144,Adventure,"Sigiriya Museum, Gregory Lake"
+Place_191,6.756357,81.025578,15603,Nature,"Mirissa Beach, Udawalawe National Park, Yala National Park, Arugam Bay"
+Place_192,6.875273,81.356164,13958,"Adventure, Wildlife, Religious","Jungle Beach, Nine Arches Bridge"
+Place_193,6.293613,80.355029,6162,"Wildlife, Religious",Arugam Bay
+Place_194,6.103042,79.88405,7112,"Nature, Beach, Adventure","Jaya Sri Maha Bodhi, Adam's Peak"
+Place_195,6.580183,81.47234,15617,Cultural,"Pidurangala Rock, Jaya Sri Maha Bodhi"
+Place_196,7.170505,79.992596,16735,"Adventure, Nature, Cultural","Dambulla Cave Temple, Sigiriya Museum"
+Place_197,7.27832,81.107602,9107,Cultural,"Horton Plains, Yala National Park, Adam's Peak"
+Place_198,8.916189,80.888495,2599,"Wildlife, Adventure, Beach","Mirissa Beach, Pidurangala Rock, Galle Fort, Dambulla Cave Temple"
+Place_199,7.523175,80.3809,17071,"Beach, Wildlife","Jaya Sri Maha Bodhi, Arugam Bay, Haggala Garden, Horton Plains"
+Place_200,7.593938,81.233149,18282,Religious,"Little Adam's Peak, Adam's Peak"
+Place_201,8.690449,80.335768,13719,Beach,"Adam's Peak, Dambulla Cave Temple"
+Place_202,8.999162,79.917046,19793,Wildlife,"Sigiriya Museum, Adam's Peak"
+Place_203,8.305305,80.381471,16734,"Nature, Beach","Sigiriya Museum, Udawalawe National Park"
+Place_204,7.240149,79.898451,18332,Religious,"Ambewela Farm, Galle Fort, Polonnaruwa Ruins, Horton Plains"
+Place_205,9.427507,80.506389,13589,Cultural,"Sigiriya Museum, Gregory Lake, Mirissa Beach"
+Place_206,9.500293,81.08074,19797,"Beach, Wildlife","Horton Plains, Jaya Sri Maha Bodhi, Ambewela Farm, Little Adam's Peak"
+Place_207,8.631356,81.215424,5118,"Cultural, Wildlife, Beach",Jungle Beach
+Place_208,7.037041,80.129128,8424,Religious,"Dambulla Cave Temple, Ambewela Farm"
+Place_209,6.373643,80.87748,15295,"Nature, Cultural","Mirissa Beach, Dambulla Cave Temple, Horton Plains, Ambewela Farm, Udawalawe National Park"
+Place_210,7.070737,79.964531,8259,"Nature, Cultural, Beach","Sigiriya Museum, Galle Fort"
+Place_211,8.945741,81.458193,6000,"Adventure, Religious",Little Adam's Peak
+Place_212,7.375897,79.807136,16631,"Religious, Nature","Mirissa Beach, Horton Plains, Udawalawe National Park, Nine Arches Bridge"
+Place_213,6.544561,80.992941,13941,Cultural,"Pidurangala Rock, Horton Plains"
+Place_214,6.175068,81.003859,9611,Religious,"Ambewela Farm, Horton Plains, Little Adam's Peak, Ruwanwelisaya Stupa"
+Place_215,5.954222,80.205829,16322,"Cultural, Religious, Adventure","Polonnaruwa Ruins, Yala National Park, Pidurangala Rock"
+Place_216,7.704406,80.188525,6687,"Adventure, Religious, Beach","Pidurangala Rock, Jungle Beach"
+Place_217,8.430588,79.742855,18423,"Adventure, Cultural, Beach","Ambewela Farm, Haggala Garden, Jaya Sri Maha Bodhi, Udawalawe National Park, Pidurangala Rock"
+Place_218,6.137871,81.079891,19590,"Nature, Wildlife, Cultural","Jungle Beach, Gregory Lake, Udawalawe National Park"
+Place_219,6.860394,81.206068,18051,"Religious, Cultural, Beach","Jungle Beach, Galle Fort, Ambewela Farm"
+Place_220,8.219803,81.427281,2948,"Beach, Religious, Adventure",Polonnaruwa Ruins
+Place_221,6.809798,79.838413,4000,"Religious, Cultural, Beach",Nine Arches Bridge
+Place_222,5.921344,80.715649,16118,"Religious, Nature","Galle Fort, Sigiriya Museum, Ambewela Farm"
+Place_223,7.372434,81.260051,16802,Nature,"Nine Arches Bridge, Gregory Lake, Yala National Park, Temple of the Tooth"
+Place_224,9.548038,81.340097,15972,"Adventure, Religious","Haggala Garden, Jaya Sri Maha Bodhi, Yala National Park"
+Place_225,6.906082,81.707623,5666,Adventure,Jaya Sri Maha Bodhi
+Place_226,7.513822,79.778183,7000,"Wildlife, Cultural, Adventure","Arugam Bay, Dambulla Cave Temple"
+Place_227,6.769039,80.066478,7000,"Religious, Cultural","Polonnaruwa Ruins, Jungle Beach"
+Place_228,6.083298,80.369306,14835,"Adventure, Wildlife","Polonnaruwa Ruins, Mirissa Beach, Pidurangala Rock, Gregory Lake"
+Place_229,8.120324,80.893181,12772,"Cultural, Adventure","Mirissa Beach, Little Adam's Peak, Gregory Lake"
+Place_230,8.574966,80.688608,7532,"Cultural, Wildlife, Adventure",Jaya Sri Maha Bodhi
+Place_231,8.20517,81.800119,7093,Cultural,Gregory Lake
+Place_232,6.894907,79.853799,13397,Wildlife,"Arugam Bay, Ruwanwelisaya Stupa, Pidurangala Rock, Yala National Park, Temple of the Tooth"
+Place_233,8.513094,81.73906,12163,"Religious, Adventure","Mirissa Beach, Horton Plains, Arugam Bay"
+Place_234,9.328405,80.902144,17932,"Beach, Cultural, Religious","Temple of the Tooth, Ambewela Farm, Arugam Bay"
+Place_235,8.42075,80.870641,13933,Beach,"Mirissa Beach, Gregory Lake, Arugam Bay, Yala National Park"
+Place_236,9.021224,81.285192,16098,Beach,"Pidurangala Rock, Nine Arches Bridge, Jungle Beach, Arugam Bay"
+Place_237,9.302258,80.015907,17602,Wildlife,"Nine Arches Bridge, Ruwanwelisaya Stupa, Yala National Park, Dambulla Cave Temple"
+Place_238,8.46958,81.546912,4000,"Beach, Nature","Sigiriya Museum, Horton Plains"
+Place_239,8.011785,81.673355,6054,"Nature, Religious, Beach","Temple of the Tooth, Nine Arches Bridge, Yala National Park"
+Place_240,7.605668,80.005071,6000,"Wildlife, Cultural","Polonnaruwa Ruins, Horton Plains, Temple of the Tooth"
+Place_241,6.510254,80.892988,3617,"Religious, Wildlife",Arugam Bay
+Place_242,8.444481,79.87713,15786,"Cultural, Nature","Pidurangala Rock, Polonnaruwa Ruins, Jungle Beach, Yala National Park, Gregory Lake"
+Place_243,6.883505,80.761247,17326,"Adventure, Religious","Polonnaruwa Ruins, Galle Fort, Ruwanwelisaya Stupa"
+Place_244,7.079369,80.475104,12225,"Adventure, Cultural, Wildlife","Mirissa Beach, Ambewela Farm, Nine Arches Bridge, Galle Fort"
+Place_245,6.325643,80.627863,7821,"Religious, Adventure","Little Adam's Peak, Haggala Garden"
+Place_246,7.742106,80.419626,18142,"Adventure, Beach","Udawalawe National Park, Gregory Lake, Pidurangala Rock, Ruwanwelisaya Stupa, Horton Plains"
+Place_247,7.438164,80.809008,2507,"Beach, Wildlife, Nature",Ambewela Farm
+Place_248,7.396433,81.605532,19775,Nature,"Galle Fort, Polonnaruwa Ruins"
+Place_249,9.477346,81.779251,19462,"Adventure, Wildlife, Beach","Arugam Bay, Gregory Lake, Jungle Beach, Ruwanwelisaya Stupa"
+Place_250,7.853495,79.894648,14885,Religious,"Nine Arches Bridge, Haggala Garden, Ruwanwelisaya Stupa"
+Place_251,8.727516,80.27369,14422,"Beach, Cultural, Adventure","Nine Arches Bridge, Ruwanwelisaya Stupa"
+Place_252,8.285486,81.382747,7096,"Adventure, Religious, Cultural",Temple of the Tooth
+Place_253,6.800092,79.944482,3917,"Beach, Adventure",Polonnaruwa Ruins
+Place_254,9.086707,81.761277,16513,"Religious, Beach","Mirissa Beach, Yala National Park, Temple of the Tooth, Gregory Lake, Sigiriya Museum"
+Place_255,8.554556,80.204097,18838,Cultural,"Ambewela Farm, Dambulla Cave Temple, Haggala Garden, Adam's Peak, Little Adam's Peak"
+Place_256,6.760478,80.376183,4474,"Cultural, Beach, Religious","Jaya Sri Maha Bodhi, Polonnaruwa Ruins"
+Place_257,9.385612,80.193177,14624,Nature,"Udawalawe National Park, Dambulla Cave Temple, Mirissa Beach"
+Place_258,8.080417,79.97062,15115,"Religious, Cultural","Yala National Park, Jungle Beach, Dambulla Cave Temple, Adam's Peak"
+Place_259,5.981326,79.837688,6813,Adventure,"Polonnaruwa Ruins, Haggala Garden"
+Place_260,8.054764,81.057363,18144,Beach,"Polonnaruwa Ruins, Nine Arches Bridge, Little Adam's Peak, Jaya Sri Maha Bodhi"
+Place_261,7.193754,81.428734,6000,Wildlife,"Temple of the Tooth, Horton Plains"
+Place_262,9.330532,79.993632,13897,"Religious, Wildlife","Little Adam's Peak, Sigiriya Museum, Yala National Park, Dambulla Cave Temple"
+Place_263,8.211497,81.784233,19621,Cultural,"Adam's Peak, Pidurangala Rock, Temple of the Tooth"
+Place_264,6.888447,80.02092,12030,"Nature, Cultural, Adventure","Arugam Bay, Little Adam's Peak, Jungle Beach, Dambulla Cave Temple, Yala National Park"
+Place_265,5.991556,79.872912,12314,"Adventure, Nature, Beach","Udawalawe National Park, Temple of the Tooth, Nine Arches Bridge, Pidurangala Rock, Gregory Lake"
+Place_266,9.666942,79.890435,7245,"Cultural, Adventure, Nature","Gregory Lake, Udawalawe National Park, Little Adam's Peak"
+Place_267,8.514397,80.098635,14066,"Religious, Beach, Adventure","Jungle Beach, Arugam Bay, Galle Fort, Haggala Garden, Jaya Sri Maha Bodhi"
+Place_268,6.735781,80.123735,8846,"Beach, Adventure, Cultural","Haggala Garden, Jaya Sri Maha Bodhi, Pidurangala Rock"
+Place_269,9.612377,80.510134,6095,"Cultural, Wildlife, Nature",Haggala Garden
+Place_270,8.501144,80.836329,9910,Nature,Galle Fort
+Place_271,9.171973,80.04229,16466,Adventure,"Ambewela Farm, Dambulla Cave Temple, Polonnaruwa Ruins, Gregory Lake, Ruwanwelisaya Stupa"
+Place_272,9.373676,81.395582,8149,"Beach, Adventure",Jaya Sri Maha Bodhi
+Place_273,6.769555,81.437117,18685,"Wildlife, Cultural, Nature","Polonnaruwa Ruins, Dambulla Cave Temple"
+Place_274,8.919021,79.998413,16507,Cultural,"Sigiriya Museum, Temple of the Tooth, Arugam Bay, Haggala Garden"
+Place_275,6.293503,81.388289,12719,"Nature, Cultural, Adventure","Temple of the Tooth, Sigiriya Museum"
+Place_276,6.635954,80.52644,8897,"Cultural, Wildlife, Nature","Galle Fort, Ambewela Farm, Mirissa Beach"
+Place_277,6.589146,80.455081,5925,"Wildlife, Adventure, Nature","Nine Arches Bridge, Adam's Peak, Sigiriya Museum"
+Place_278,9.213873,81.11175,13909,"Nature, Religious, Beach","Arugam Bay, Ruwanwelisaya Stupa, Temple of the Tooth, Pidurangala Rock, Little Adam's Peak"
+Place_279,8.765794,80.274428,4918,Beach,Mirissa Beach
+Place_280,7.588095,80.102478,3444,"Nature, Cultural, Religious","Pidurangala Rock, Arugam Bay"
+Place_281,8.083257,81.657415,9343,Religious,Pidurangala Rock
+Place_282,8.43487,81.529778,15229,"Adventure, Wildlife","Gregory Lake, Jaya Sri Maha Bodhi, Pidurangala Rock, Jungle Beach"
+Place_283,9.583962,79.736171,13314,Adventure,"Sigiriya Museum, Polonnaruwa Ruins, Little Adam's Peak, Galle Fort"
+Place_284,8.557729,79.718475,5164,"Nature, Adventure, Wildlife","Ambewela Farm, Mirissa Beach, Galle Fort"
+Place_285,7.253808,81.05367,8961,"Wildlife, Cultural","Haggala Garden, Adam's Peak, Yala National Park"
+Place_286,9.32152,80.195075,7109,"Religious, Beach","Little Adam's Peak, Polonnaruwa Ruins"
+Place_287,6.976872,80.827935,18131,"Cultural, Wildlife","Jaya Sri Maha Bodhi, Sigiriya Museum, Dambulla Cave Temple, Haggala Garden, Gregory Lake"
+Place_288,6.134486,80.626403,18917,"Nature, Cultural","Polonnaruwa Ruins, Temple of the Tooth"
+Place_289,7.482881,81.659535,18517,"Nature, Wildlife","Sigiriya Museum, Horton Plains, Mirissa Beach"
+Place_290,7.854522,79.967419,8740,"Adventure, Cultural, Nature","Haggala Garden, Jungle Beach"
+Place_291,6.52737,80.273041,6938,"Nature, Beach, Wildlife","Pidurangala Rock, Adam's Peak"
+Place_292,6.073724,80.657655,2556,Nature,Ruwanwelisaya Stupa
+Place_293,8.862756,80.484669,19004,"Religious, Nature","Haggala Garden, Jaya Sri Maha Bodhi, Ruwanwelisaya Stupa, Udawalawe National Park"
+Place_294,7.647007,81.025265,13987,"Wildlife, Beach","Haggala Garden, Gregory Lake, Adam's Peak"
+Place_295,9.33042,81.345958,9535,"Beach, Nature",Pidurangala Rock
+Place_296,7.404501,81.783581,17162,"Wildlife, Beach","Yala National Park, Jaya Sri Maha Bodhi, Mirissa Beach, Pidurangala Rock, Horton Plains"
+Place_297,7.840764,81.630327,4959,"Religious, Adventure","Udawalawe National Park, Gregory Lake"
+Place_298,9.725687,81.615806,8002,Religious,Pidurangala Rock
+Place_299,8.890135,79.816142,6448,"Cultural, Adventure, Religious",Gregory Lake
+Place_300,9.610353,81.597948,16838,Religious,"Polonnaruwa Ruins, Jungle Beach, Yala National Park, Dambulla Cave Temple, Haggala Garden"
+Place_301,6.226896,80.177371,2965,Adventure,"Jungle Beach, Ambewela Farm"
+Place_302,9.624924,81.624659,18817,Cultural,"Horton Plains, Mirissa Beach, Galle Fort"
+Place_303,9.692713,81.409204,18895,Nature,"Udawalawe National Park, Nine Arches Bridge, Temple of the Tooth, Jungle Beach, Mirissa Beach"
+Place_304,5.957931,79.718547,16633,"Religious, Wildlife, Cultural","Mirissa Beach, Ruwanwelisaya Stupa, Dambulla Cave Temple, Pidurangala Rock, Jungle Beach"
+Place_305,6.200932,80.109387,15328,Religious,"Jaya Sri Maha Bodhi, Haggala Garden, Udawalawe National Park"
+Place_306,7.593474,81.555963,6680,"Religious, Nature, Beach","Sigiriya Museum, Haggala Garden, Arugam Bay, Mirissa Beach"
+Place_307,8.761196,80.434103,19688,Nature,"Mirissa Beach, Adam's Peak, Pidurangala Rock, Sigiriya Museum, Gregory Lake"
+Place_308,6.554359,81.184345,19826,"Adventure, Beach, Wildlife","Little Adam's Peak, Nine Arches Bridge, Arugam Bay"
+Place_309,7.267887,81.406924,16477,"Wildlife, Cultural","Mirissa Beach, Pidurangala Rock, Horton Plains, Little Adam's Peak"
+Place_310,8.212156,81.099874,4925,"Beach, Wildlife","Nine Arches Bridge, Galle Fort"
+Place_311,6.852363,81.405112,17007,"Adventure, Wildlife","Ambewela Farm, Haggala Garden, Nine Arches Bridge, Temple of the Tooth, Ruwanwelisaya Stupa"
+Place_312,6.237476,81.11313,8608,Religious,"Ruwanwelisaya Stupa, Jaya Sri Maha Bodhi"
+Place_313,6.040575,81.573963,5786,"Cultural, Religious, Beach","Nine Arches Bridge, Jaya Sri Maha Bodhi"
+Place_314,8.230476,80.873983,16052,"Wildlife, Religious, Cultural","Udawalawe National Park, Haggala Garden, Arugam Bay, Adam's Peak, Dambulla Cave Temple"
+Place_315,9.192867,81.883181,7482,Nature,Arugam Bay
+Place_316,8.335197,81.851525,17549,Adventure,"Horton Plains, Haggala Garden, Ruwanwelisaya Stupa, Jungle Beach"
+Place_317,7.947225,79.757047,8017,Wildlife,"Arugam Bay, Sigiriya Museum, Ruwanwelisaya Stupa"
+Place_318,9.613635,81.393527,18960,"Cultural, Religious","Temple of the Tooth, Polonnaruwa Ruins, Dambulla Cave Temple, Horton Plains"
+Place_319,6.133421,80.154544,3239,Wildlife,"Ambewela Farm, Mirissa Beach"
+Place_320,8.369114,81.226357,17025,Cultural,"Temple of the Tooth, Arugam Bay, Adam's Peak, Jaya Sri Maha Bodhi"
+Place_321,8.151705,80.266256,7059,"Nature, Wildlife, Beach",Little Adam's Peak
+Place_322,5.903819,80.603306,4029,Cultural,Pidurangala Rock
+Place_323,9.750093,80.492489,17933,"Cultural, Adventure","Temple of the Tooth, Sigiriya Museum, Adam's Peak, Galle Fort, Horton Plains"
+Place_324,6.013479,80.698689,2331,Cultural,"Little Adam's Peak, Yala National Park, Haggala Garden"
+Place_325,9.788945,81.221687,7297,"Adventure, Cultural",Yala National Park
+Place_326,6.152112,80.273338,5052,"Beach, Religious, Nature","Horton Plains, Sigiriya Museum"
+Place_327,7.788481,80.619091,12732,"Cultural, Adventure","Mirissa Beach, Nine Arches Bridge, Jungle Beach, Little Adam's Peak, Haggala Garden"
+Place_328,6.879126,80.039291,16903,Religious,"Dambulla Cave Temple, Mirissa Beach"
+Place_329,6.754214,81.449244,17720,"Adventure, Wildlife, Cultural","Mirissa Beach, Ambewela Farm, Arugam Bay, Jaya Sri Maha Bodhi"
+Place_330,6.718207,81.443025,12674,Wildlife,"Pidurangala Rock, Adam's Peak, Yala National Park"
+Place_331,6.464123,80.8239,19343,"Cultural, Beach","Little Adam's Peak, Dambulla Cave Temple"
+Place_332,6.391439,81.551883,7502,"Religious, Nature, Cultural",Gregory Lake
+Place_333,6.530729,81.310047,4507,Religious,Little Adam's Peak
+Place_334,8.660131,81.673324,15642,"Cultural, Religious, Wildlife","Horton Plains, Jaya Sri Maha Bodhi, Udawalawe National Park, Jungle Beach"
+Place_335,9.168764,80.813995,18414,"Religious, Beach","Nine Arches Bridge, Gregory Lake, Ambewela Farm"
+Place_336,7.020492,80.230523,9718,"Religious, Nature",Yala National Park
+Place_337,6.000878,81.250834,15271,Adventure,"Sigiriya Museum, Ruwanwelisaya Stupa, Yala National Park, Nine Arches Bridge, Temple of the Tooth"
+Place_338,7.666684,81.734023,15620,Beach,"Temple of the Tooth, Haggala Garden, Ruwanwelisaya Stupa, Jungle Beach, Polonnaruwa Ruins"
+Place_339,6.080355,81.746158,12145,Religious,"Temple of the Tooth, Nine Arches Bridge, Little Adam's Peak, Gregory Lake"
+Place_340,8.775533,80.424681,14742,"Religious, Adventure, Cultural","Pidurangala Rock, Sigiriya Museum, Udawalawe National Park, Ruwanwelisaya Stupa"
+Place_341,9.412752,81.612194,9842,Religious,"Haggala Garden, Arugam Bay, Jungle Beach"
+Place_342,8.562904,80.997834,14228,Adventure,"Udawalawe National Park, Mirissa Beach, Dambulla Cave Temple"
+Place_343,6.180911,80.886588,9154,"Cultural, Beach, Religious","Horton Plains, Dambulla Cave Temple, Haggala Garden, Gregory Lake"
+Place_344,6.469339,80.08148,13862,Adventure,"Udawalawe National Park, Temple of the Tooth, Mirissa Beach, Horton Plains, Jaya Sri Maha Bodhi"
+Place_345,8.633011,81.271862,8441,"Nature, Cultural, Beach","Mirissa Beach, Udawalawe National Park"
+Place_346,6.457524,80.33799,18269,"Adventure, Beach, Nature","Nine Arches Bridge, Jungle Beach, Little Adam's Peak, Udawalawe National Park, Dambulla Cave Temple"
+Place_347,9.404731,79.75134,15136,"Beach, Adventure","Yala National Park, Gregory Lake, Sigiriya Museum, Horton Plains"
+Place_348,8.105464,81.734805,14575,Beach,"Dambulla Cave Temple, Ambewela Farm, Horton Plains, Jaya Sri Maha Bodhi, Yala National Park"
+Place_349,8.79005,81.39252,15106,"Cultural, Adventure, Beach","Ruwanwelisaya Stupa, Mirissa Beach"
+Place_350,7.136953,81.759236,19935,"Beach, Wildlife, Cultural","Polonnaruwa Ruins, Ambewela Farm, Haggala Garden"
+Place_351,6.441311,80.704001,14203,"Beach, Adventure","Polonnaruwa Ruins, Ruwanwelisaya Stupa, Mirissa Beach"
+Place_352,6.6699,80.972781,12494,"Nature, Cultural","Ruwanwelisaya Stupa, Udawalawe National Park, Sigiriya Museum, Jungle Beach, Gregory Lake"
+Place_353,8.784144,81.1512,8661,Adventure,"Dambulla Cave Temple, Temple of the Tooth"
+Place_354,6.268804,81.364528,9163,"Wildlife, Adventure","Adam's Peak, Polonnaruwa Ruins"
+Place_355,5.977491,81.629906,5258,"Religious, Cultural","Horton Plains, Pidurangala Rock"
+Place_356,8.013548,81.382047,13390,"Nature, Cultural, Religious","Haggala Garden, Galle Fort, Yala National Park, Jaya Sri Maha Bodhi, Nine Arches Bridge"
+Place_357,8.844355,81.760326,6252,"Cultural, Wildlife, Beach",Ruwanwelisaya Stupa
+Place_358,7.731888,80.3026,19462,"Adventure, Nature, Religious","Polonnaruwa Ruins, Ruwanwelisaya Stupa, Little Adam's Peak, Gregory Lake, Pidurangala Rock"
+Place_359,7.504146,81.418228,19425,"Wildlife, Religious, Nature","Yala National Park, Dambulla Cave Temple, Mirissa Beach, Arugam Bay"
+Place_360,6.891487,80.663081,16167,"Religious, Beach","Mirissa Beach, Temple of the Tooth"
+Place_361,9.086212,79.981819,12688,Nature,"Ruwanwelisaya Stupa, Haggala Garden, Yala National Park"
+Place_362,6.584666,80.126869,12243,Religious,"Adam's Peak, Nine Arches Bridge, Pidurangala Rock, Little Adam's Peak, Jungle Beach"
+Place_363,7.775457,80.519719,2132,"Nature, Wildlife",Galle Fort
+Place_364,9.584338,81.830086,12216,Wildlife,"Mirissa Beach, Polonnaruwa Ruins, Ruwanwelisaya Stupa, Ambewela Farm"
+Place_365,6.215638,80.073148,15170,"Beach, Cultural","Galle Fort, Little Adam's Peak, Sigiriya Museum, Horton Plains, Haggala Garden"
+Place_366,8.283587,81.821317,8896,"Nature, Religious, Cultural","Gregory Lake, Yala National Park"
+Place_367,9.104134,81.570925,3112,"Nature, Wildlife, Beach","Adam's Peak, Mirissa Beach"
+Place_368,8.616668,81.733172,6408,"Cultural, Nature","Horton Plains, Sigiriya Museum"
+Place_369,6.651528,80.494171,19470,"Wildlife, Cultural","Udawalawe National Park, Dambulla Cave Temple, Little Adam's Peak, Horton Plains, Sigiriya Museum"
+Place_370,6.734238,79.85642,16615,Nature,"Ambewela Farm, Polonnaruwa Ruins, Adam's Peak, Udawalawe National Park, Sigiriya Museum"
+Place_371,7.75891,81.27752,5568,Cultural,"Haggala Garden, Nine Arches Bridge"
+Place_372,8.524144,80.214944,14202,"Cultural, Beach","Ruwanwelisaya Stupa, Pidurangala Rock, Dambulla Cave Temple, Ambewela Farm"
+Place_373,7.686968,81.253084,15823,Beach,"Horton Plains, Jaya Sri Maha Bodhi, Udawalawe National Park, Polonnaruwa Ruins"
+Place_374,8.418515,80.834159,5249,"Cultural, Nature, Beach","Polonnaruwa Ruins, Yala National Park"
+Place_375,7.34279,81.31961,3991,"Beach, Nature","Pidurangala Rock, Little Adam's Peak"
+Place_376,8.467616,80.068242,12328,"Wildlife, Beach, Nature","Nine Arches Bridge, Horton Plains, Jaya Sri Maha Bodhi, Yala National Park"
+Place_377,7.39392,81.154262,17825,"Cultural, Beach","Nine Arches Bridge, Udawalawe National Park, Jaya Sri Maha Bodhi"
+Place_378,7.561683,79.759562,3267,"Cultural, Nature",Dambulla Cave Temple
+Place_379,8.172196,81.745392,5691,"Wildlife, Cultural, Religious",Ruwanwelisaya Stupa
+Place_380,7.957439,81.485313,7916,Nature,Jungle Beach
+Place_381,7.352816,80.977958,16053,"Religious, Wildlife, Adventure","Temple of the Tooth, Mirissa Beach, Dambulla Cave Temple, Yala National Park"
+Place_382,9.794452,81.280852,19779,"Adventure, Cultural, Nature","Sigiriya Museum, Ruwanwelisaya Stupa, Yala National Park, Gregory Lake"
+Place_383,8.358178,81.282009,14964,Nature,"Haggala Garden, Pidurangala Rock, Polonnaruwa Ruins, Ruwanwelisaya Stupa"
+Place_384,9.760373,81.556415,17594,"Cultural, Nature, Adventure","Horton Plains, Temple of the Tooth, Adam's Peak"
+Place_385,7.467755,80.59931,12143,"Adventure, Wildlife, Religious","Ruwanwelisaya Stupa, Mirissa Beach, Temple of the Tooth, Adam's Peak, Jaya Sri Maha Bodhi"
+Place_386,8.105012,80.305827,19945,Adventure,"Sigiriya Museum, Arugam Bay, Temple of the Tooth, Ruwanwelisaya Stupa"
+Place_387,8.461712,80.372729,17952,"Wildlife, Beach","Ambewela Farm, Pidurangala Rock, Polonnaruwa Ruins"
+Place_388,9.168244,79.78254,17119,Religious,"Sigiriya Museum, Arugam Bay, Haggala Garden"
+Place_389,9.01772,81.212548,13258,Adventure,"Galle Fort, Jaya Sri Maha Bodhi, Mirissa Beach, Arugam Bay, Ambewela Farm"
+Place_390,5.936846,80.36634,18257,"Religious, Wildlife, Beach","Ruwanwelisaya Stupa, Polonnaruwa Ruins, Udawalawe National Park, Gregory Lake"
+Place_391,8.197788,79.868647,7094,"Adventure, Nature","Galle Fort, Ambewela Farm"
+Place_392,7.58224,80.281432,15950,"Nature, Wildlife, Beach","Ruwanwelisaya Stupa, Ambewela Farm, Sigiriya Museum, Jaya Sri Maha Bodhi"
+Place_393,8.732003,79.945402,6891,Adventure,"Udawalawe National Park, Haggala Garden"
+Place_394,6.761828,81.534567,9657,Adventure,"Haggala Garden, Polonnaruwa Ruins"
+Place_395,7.947218,81.237173,18114,"Adventure, Cultural","Sigiriya Museum, Udawalawe National Park, Gregory Lake, Ambewela Farm"
+Place_396,8.383436,80.223866,19506,Beach,"Gregory Lake, Polonnaruwa Ruins, Pidurangala Rock"
+Place_397,6.231254,79.810167,16230,Adventure,"Polonnaruwa Ruins, Nine Arches Bridge, Gregory Lake, Mirissa Beach"
+Place_398,8.527309,79.938386,2185,"Beach, Wildlife, Cultural",Horton Plains
+Place_399,8.763556,80.03037,16234,Adventure,"Jaya Sri Maha Bodhi, Yala National Park, Haggala Garden, Jungle Beach, Arugam Bay"
+Place_400,9.270589,81.799301,2113,"Religious, Beach, Cultural","Jungle Beach, Jaya Sri Maha Bodhi"
+Place_401,9.135472,81.06552,16980,"Religious, Cultural","Arugam Bay, Pidurangala Rock, Nine Arches Bridge, Udawalawe National Park, Jaya Sri Maha Bodhi"
+Place_402,6.62313,80.596144,15625,"Beach, Adventure, Cultural","Jungle Beach, Dambulla Cave Temple, Adam's Peak, Mirissa Beach"
+Place_403,7.188386,80.370519,14534,"Beach, Religious","Gregory Lake, Horton Plains, Jungle Beach, Nine Arches Bridge"
+Place_404,8.076482,80.96251,17527,"Beach, Cultural","Udawalawe National Park, Polonnaruwa Ruins, Nine Arches Bridge"
+Place_405,6.766723,80.899143,17021,"Religious, Beach","Mirissa Beach, Adam's Peak, Udawalawe National Park"
+Place_406,8.730845,81.044225,14062,"Religious, Adventure","Gregory Lake, Temple of the Tooth, Ruwanwelisaya Stupa, Nine Arches Bridge, Dambulla Cave Temple"
+Place_407,7.672224,80.704412,15938,"Wildlife, Nature, Beach","Yala National Park, Little Adam's Peak, Arugam Bay, Ruwanwelisaya Stupa"
+Place_408,6.021746,81.39336,8957,"Beach, Nature","Ambewela Farm, Nine Arches Bridge"
+Place_409,7.022893,80.027921,16525,"Beach, Adventure","Gregory Lake, Dambulla Cave Temple, Jaya Sri Maha Bodhi"
+Place_410,9.194425,80.349836,15051,"Wildlife, Religious","Little Adam's Peak, Gregory Lake, Jaya Sri Maha Bodhi, Horton Plains, Temple of the Tooth"
+Place_411,6.287214,80.868766,13697,Beach,"Udawalawe National Park, Nine Arches Bridge, Gregory Lake, Dambulla Cave Temple, Horton Plains"
+Place_412,8.719117,80.586074,5861,Wildlife,"Sigiriya Museum, Udawalawe National Park"
+Place_413,9.584944,79.88074,8983,Cultural,Yala National Park
+Place_414,6.581861,79.897643,19208,Cultural,"Mirissa Beach, Arugam Bay, Little Adam's Peak, Nine Arches Bridge"
+Place_415,7.180519,80.370557,18345,Religious,"Mirissa Beach, Ambewela Farm, Polonnaruwa Ruins, Little Adam's Peak"
+Place_416,9.622104,79.984631,17452,"Wildlife, Beach, Religious","Jungle Beach, Haggala Garden, Pidurangala Rock, Polonnaruwa Ruins, Jaya Sri Maha Bodhi"
+Place_417,6.763056,81.668358,8896,Religious,"Nine Arches Bridge, Little Adam's Peak, Ambewela Farm"
+Place_418,6.514002,80.835405,12310,"Cultural, Wildlife, Nature","Ruwanwelisaya Stupa, Dambulla Cave Temple, Pidurangala Rock, Temple of the Tooth"
+Place_419,9.650296,81.060579,6097,"Nature, Beach, Adventure","Sigiriya Museum, Dambulla Cave Temple, Ambewela Farm"
+Place_420,7.549291,80.31123,13210,"Religious, Wildlife, Adventure","Ambewela Farm, Pidurangala Rock, Nine Arches Bridge, Ruwanwelisaya Stupa"
+Place_421,8.889177,81.42162,6098,"Nature, Adventure",Temple of the Tooth
+Place_422,6.47712,79.747271,7782,Beach,"Adam's Peak, Jaya Sri Maha Bodhi"
+Place_423,7.011752,80.894555,9317,"Wildlife, Adventure, Religious",Yala National Park
+Place_424,6.79148,81.303629,8105,"Nature, Adventure","Ruwanwelisaya Stupa, Ambewela Farm, Pidurangala Rock, Arugam Bay"
+Place_425,9.632176,81.744566,14312,Nature,"Haggala Garden, Temple of the Tooth, Ruwanwelisaya Stupa, Nine Arches Bridge, Sigiriya Museum"
+Place_426,8.500822,80.612671,16823,"Religious, Wildlife, Adventure","Sigiriya Museum, Jungle Beach, Haggala Garden"
+Place_427,7.310108,80.868026,16647,"Religious, Wildlife","Arugam Bay, Sigiriya Museum, Horton Plains, Galle Fort, Gregory Lake"
+Place_428,8.46492,80.583925,16311,"Wildlife, Nature, Beach","Little Adam's Peak, Pidurangala Rock, Gregory Lake"
+Place_429,8.449552,80.279471,16550,Adventure,"Little Adam's Peak, Ruwanwelisaya Stupa"
+Place_430,7.276447,80.001587,14378,Beach,"Ambewela Farm, Yala National Park, Adam's Peak, Jungle Beach, Temple of the Tooth"
+Place_431,5.967435,81.776136,16200,"Nature, Cultural","Mirissa Beach, Udawalawe National Park, Polonnaruwa Ruins, Horton Plains"
+Place_432,6.29992,81.627398,4365,"Cultural, Religious",Jungle Beach
+Place_433,8.947679,79.763394,17931,"Nature, Beach, Religious","Adam's Peak, Temple of the Tooth, Ambewela Farm, Jaya Sri Maha Bodhi, Yala National Park"
+Place_434,7.666522,80.155349,16125,"Nature, Beach","Ambewela Farm, Dambulla Cave Temple, Yala National Park, Sigiriya Museum"
+Place_435,7.103779,80.91422,18047,"Nature, Cultural, Beach","Mirissa Beach, Jungle Beach, Dambulla Cave Temple, Jaya Sri Maha Bodhi"
+Place_436,8.644473,80.212031,4976,Religious,Pidurangala Rock
+Place_437,9.543189,81.021609,5512,"Cultural, Wildlife","Ambewela Farm, Gregory Lake, Udawalawe National Park, Haggala Garden, Jaya Sri Maha Bodhi"
+Place_438,9.455337,81.580523,8205,Cultural,Nine Arches Bridge
+Place_439,8.45329,80.805521,5776,"Nature, Cultural","Little Adam's Peak, Haggala Garden"
+Place_440,8.709982,79.805914,3871,"Religious, Nature","Jungle Beach, Ambewela Farm, Ruwanwelisaya Stupa"
+Place_441,9.076494,80.681526,7400,"Cultural, Wildlife","Jungle Beach, Pidurangala Rock"
+Place_442,6.401226,80.780196,4360,"Religious, Adventure, Cultural",Dambulla Cave Temple
+Place_443,7.116735,81.756649,17902,"Nature, Cultural, Beach","Yala National Park, Udawalawe National Park, Horton Plains, Nine Arches Bridge, Polonnaruwa Ruins"
+Place_444,6.089169,80.45314,9310,"Adventure, Nature, Beach",Yala National Park
+Place_445,7.147152,80.816981,13477,Adventure,"Arugam Bay, Gregory Lake, Nine Arches Bridge, Ambewela Farm"
+Place_446,6.901684,80.694017,12681,"Nature, Beach","Yala National Park, Mirissa Beach, Gregory Lake, Pidurangala Rock"
+Place_447,9.546849,80.793052,16216,"Beach, Wildlife","Dambulla Cave Temple, Ruwanwelisaya Stupa, Nine Arches Bridge"
+Place_448,9.653368,80.098078,2714,"Nature, Religious",Temple of the Tooth
+Place_449,9.266152,81.377716,3506,Nature,Arugam Bay
+Place_450,6.459617,81.258202,12562,Cultural,"Arugam Bay, Haggala Garden, Yala National Park, Little Adam's Peak"
+Place_451,8.218388,81.434536,15802,"Adventure, Wildlife","Galle Fort, Horton Plains, Arugam Bay, Udawalawe National Park"
+Place_452,8.889879,80.379256,5006,"Wildlife, Cultural",Nine Arches Bridge
+Place_453,7.871568,81.864047,18811,"Adventure, Religious","Gregory Lake, Haggala Garden, Ambewela Farm"
+Place_454,6.524711,79.707527,12281,"Beach, Nature, Adventure","Mirissa Beach, Gregory Lake, Arugam Bay"
+Place_455,9.370498,81.883041,19475,Religious,"Arugam Bay, Adam's Peak, Mirissa Beach, Sigiriya Museum"
+Place_456,5.931735,80.303324,3210,Cultural,"Pidurangala Rock, Jaya Sri Maha Bodhi"
+Place_457,9.436473,80.813462,4280,"Wildlife, Cultural","Nine Arches Bridge, Sigiriya Museum"
+Place_458,8.959684,81.641938,15535,"Wildlife, Religious, Nature","Jungle Beach, Jaya Sri Maha Bodhi, Haggala Garden, Udawalawe National Park"
+Place_459,7.785549,80.876594,15216,Nature,"Dambulla Cave Temple, Galle Fort, Horton Plains, Yala National Park"
+Place_460,8.498973,80.592898,14922,"Adventure, Cultural, Wildlife","Little Adam's Peak, Jaya Sri Maha Bodhi"
+Place_461,9.545592,80.537713,4532,"Adventure, Wildlife, Beach",Sigiriya Museum
+Place_462,7.945093,80.628873,7437,"Wildlife, Adventure",Sigiriya Museum
+Place_463,9.358686,81.864872,18897,"Religious, Adventure, Nature","Haggala Garden, Pidurangala Rock, Yala National Park"
+Place_464,9.60584,81.388981,14893,"Nature, Cultural","Dambulla Cave Temple, Sigiriya Museum, Little Adam's Peak, Adam's Peak, Galle Fort"
+Place_465,6.287007,80.124504,9974,"Beach, Wildlife",Galle Fort
+Place_466,8.470855,79.884234,8596,"Beach, Wildlife",Gregory Lake
+Place_467,9.296198,80.248614,7537,Religious,"Mirissa Beach, Udawalawe National Park, Sigiriya Museum"
+Place_468,7.93117,80.91124,18378,"Wildlife, Adventure","Adam's Peak, Arugam Bay, Udawalawe National Park, Galle Fort, Polonnaruwa Ruins"
+Place_469,8.439181,81.151493,16792,"Cultural, Religious","Galle Fort, Horton Plains, Ambewela Farm, Jaya Sri Maha Bodhi"
+Place_470,7.430574,81.836544,8639,Cultural,"Dambulla Cave Temple, Mirissa Beach, Jaya Sri Maha Bodhi"
+Place_471,6.730781,80.121094,17638,"Nature, Beach, Religious","Little Adam's Peak, Arugam Bay, Jaya Sri Maha Bodhi, Nine Arches Bridge, Jungle Beach"
+Place_472,8.678415,81.257314,7868,Cultural,"Udawalawe National Park, Nine Arches Bridge"
+Place_473,7.700279,81.625583,18446,"Beach, Adventure, Nature","Temple of the Tooth, Little Adam's Peak"
+Place_474,7.144096,79.88379,8562,Nature,Adam's Peak
+Place_475,8.239846,80.148187,17522,"Cultural, Nature, Beach","Jaya Sri Maha Bodhi, Pidurangala Rock"
+Place_476,7.874398,80.522474,15503,Beach,"Ambewela Farm, Dambulla Cave Temple, Polonnaruwa Ruins"
+Place_477,8.499972,80.715561,12220,"Wildlife, Religious, Beach","Ambewela Farm, Ruwanwelisaya Stupa, Temple of the Tooth, Arugam Bay, Jungle Beach"
+Place_478,8.144443,80.270894,19995,"Wildlife, Beach, Adventure","Ruwanwelisaya Stupa, Jungle Beach"
+Place_479,7.336813,80.363341,12014,"Cultural, Religious, Nature","Little Adam's Peak, Polonnaruwa Ruins, Dambulla Cave Temple, Horton Plains"
+Place_480,7.912515,80.228278,17629,"Beach, Nature","Little Adam's Peak, Nine Arches Bridge, Polonnaruwa Ruins"
+Place_481,9.566029,79.718711,4702,"Beach, Nature","Adam's Peak, Haggala Garden, Ambewela Farm"
+Place_482,6.438749,81.804417,13746,"Beach, Cultural, Religious","Sigiriya Museum, Horton Plains, Adam's Peak, Haggala Garden"
+Place_483,7.449375,80.131998,17624,"Nature, Adventure","Pidurangala Rock, Mirissa Beach, Dambulla Cave Temple, Galle Fort"
+Place_484,9.500415,79.833633,16924,"Adventure, Wildlife","Udawalawe National Park, Yala National Park, Dambulla Cave Temple"
+Place_485,8.274592,81.392651,8292,"Beach, Religious, Cultural",Jaya Sri Maha Bodhi
+Place_486,6.276536,79.776365,7455,"Religious, Wildlife","Galle Fort, Jungle Beach, Mirissa Beach"
+Place_487,7.666413,80.561351,16376,"Adventure, Religious, Cultural","Temple of the Tooth, Haggala Garden, Galle Fort, Jungle Beach, Nine Arches Bridge"
+Place_488,5.916834,80.398002,6450,Cultural,Mirissa Beach
+Place_489,7.066851,80.368254,7105,Nature,Udawalawe National Park
+Place_490,8.019324,79.703117,6886,Religious,"Galle Fort, Ruwanwelisaya Stupa"
+Place_491,8.81267,80.231552,7999,"Beach, Nature, Adventure",Galle Fort
+Place_492,8.487159,81.504899,18994,"Adventure, Religious","Dambulla Cave Temple, Adam's Peak, Udawalawe National Park, Yala National Park, Horton Plains"
+Place_493,9.707072,80.354142,4518,"Adventure, Wildlife",Horton Plains
+Place_494,7.357352,81.255018,7314,"Nature, Cultural",Udawalawe National Park
+Place_495,6.54337,80.332742,7400,Nature,"Nine Arches Bridge, Arugam Bay, Little Adam's Peak"
+Place_496,6.783945,80.585434,15207,"Religious, Beach","Haggala Garden, Pidurangala Rock, Jaya Sri Maha Bodhi, Nine Arches Bridge, Yala National Park"
+Place_497,6.24261,79.75234,7481,Nature,"Sigiriya Museum, Gregory Lake"
+Place_498,8.254057,81.320245,18308,"Nature, Beach, Adventure","Polonnaruwa Ruins, Galle Fort, Pidurangala Rock, Yala National Park"
+Place_499,6.811513,80.244801,16109,"Religious, Nature, Wildlife","Temple of the Tooth, Jungle Beach, Sigiriya Museum"
+Place_500,6.486956,81.431227,5448,Cultural,Jaya Sri Maha Bodhi
+Place_501,8.405177,80.643564,16555,"Religious, Wildlife, Nature","Jungle Beach, Ruwanwelisaya Stupa"
+Place_502,8.34317,81.261479,7723,"Nature, Adventure, Cultural",Dambulla Cave Temple
+Place_503,8.20721,79.959012,9853,"Religious, Adventure, Beach",Arugam Bay
+Place_504,7.722626,81.757028,7020,"Nature, Wildlife",Galle Fort
+Place_505,7.874108,81.320172,12063,"Nature, Cultural","Ruwanwelisaya Stupa, Ambewela Farm, Polonnaruwa Ruins, Yala National Park, Galle Fort"
+Place_506,8.977137,80.052465,3088,"Wildlife, Cultural, Adventure","Ambewela Farm, Horton Plains"
+Place_507,8.689386,80.662421,4042,"Nature, Beach, Adventure","Jaya Sri Maha Bodhi, Little Adam's Peak"
+Place_508,9.185475,81.543291,2257,"Beach, Cultural, Religious","Mirissa Beach, Temple of the Tooth"
+Place_509,6.537857,79.838668,16483,Beach,"Adam's Peak, Jaya Sri Maha Bodhi, Gregory Lake, Nine Arches Bridge, Horton Plains"
+Place_510,7.536144,80.624624,2526,Adventure,Jungle Beach
+Place_511,6.697699,81.408208,2856,"Cultural, Beach","Adam's Peak, Ambewela Farm"
+Place_512,6.412982,80.846898,7601,Cultural,"Mirissa Beach, Yala National Park"
+Place_513,9.108711,81.621988,19719,"Wildlife, Nature","Yala National Park, Horton Plains, Ruwanwelisaya Stupa, Adam's Peak, Polonnaruwa Ruins"
+Place_514,8.617672,80.612476,14736,"Adventure, Beach","Nine Arches Bridge, Galle Fort, Udawalawe National Park, Temple of the Tooth"
+Place_515,8.853445,81.595257,17427,Beach,"Haggala Garden, Ambewela Farm, Udawalawe National Park, Arugam Bay"
+Place_516,7.777262,81.232294,3308,Adventure,"Ruwanwelisaya Stupa, Adam's Peak"
+Place_517,9.115146,80.995358,16879,Cultural,"Ambewela Farm, Ruwanwelisaya Stupa, Horton Plains, Mirissa Beach, Nine Arches Bridge"
+Place_518,8.11711,80.188681,8443,"Religious, Beach, Adventure",Adam's Peak
+Place_519,7.376902,81.748794,2949,"Cultural, Wildlife",Little Adam's Peak
+Place_520,9.721019,79.97879,12389,"Religious, Wildlife, Nature","Yala National Park, Pidurangala Rock, Jungle Beach"
+Place_521,6.753459,81.755908,15266,"Cultural, Wildlife, Religious","Jaya Sri Maha Bodhi, Udawalawe National Park, Little Adam's Peak, Mirissa Beach"
+Place_522,8.932937,79.8787,7794,Nature,Adam's Peak
+Place_523,8.011071,80.913505,18103,Religious,"Polonnaruwa Ruins, Udawalawe National Park, Ruwanwelisaya Stupa, Jungle Beach, Arugam Bay"
+Place_524,9.426021,81.570698,13988,"Wildlife, Adventure","Galle Fort, Yala National Park, Gregory Lake, Horton Plains, Jungle Beach"
+Place_525,6.998287,80.276892,8065,"Nature, Adventure, Cultural","Ambewela Farm, Little Adam's Peak"
+Place_526,7.479937,80.37197,14421,"Religious, Cultural","Little Adam's Peak, Yala National Park, Arugam Bay"
+Place_527,7.724498,80.250552,18462,"Wildlife, Religious, Cultural","Pidurangala Rock, Little Adam's Peak, Jungle Beach"
+Place_528,6.954645,80.159669,13140,"Beach, Wildlife, Adventure","Yala National Park, Mirissa Beach, Jaya Sri Maha Bodhi, Ambewela Farm, Haggala Garden"
+Place_529,6.069556,80.533814,5838,"Nature, Beach, Adventure",Mirissa Beach
+Place_530,9.319385,81.852641,15349,"Religious, Nature, Adventure","Yala National Park, Adam's Peak, Galle Fort, Sigiriya Museum, Horton Plains"
+Place_531,8.264365,80.870656,9426,Wildlife,"Sigiriya Museum, Gregory Lake"
+Place_532,8.31533,80.531333,8785,Religious,"Arugam Bay, Mirissa Beach, Udawalawe National Park"
+Place_533,9.059402,79.761956,17885,"Adventure, Beach","Sigiriya Museum, Gregory Lake, Jungle Beach, Polonnaruwa Ruins"
+Place_534,7.755791,81.853774,19128,Adventure,"Sigiriya Museum, Mirissa Beach, Ambewela Farm, Ruwanwelisaya Stupa"
+Place_535,6.447482,79.878439,18174,"Beach, Wildlife, Cultural","Arugam Bay, Little Adam's Peak, Temple of the Tooth, Polonnaruwa Ruins, Pidurangala Rock"
+Place_536,6.573814,80.575426,15722,"Religious, Beach, Adventure","Jaya Sri Maha Bodhi, Little Adam's Peak, Gregory Lake"
+Place_537,8.690502,79.978488,18907,"Beach, Cultural, Religious","Ambewela Farm, Haggala Garden, Little Adam's Peak"
+Place_538,9.551152,79.891982,4365,"Wildlife, Nature",Adam's Peak
+Place_539,8.857161,80.801985,7952,Adventure,Pidurangala Rock
+Place_540,6.690288,80.759577,15228,"Wildlife, Religious, Nature","Sigiriya Museum, Nine Arches Bridge, Little Adam's Peak, Pidurangala Rock, Ambewela Farm"
+Place_541,6.706177,81.70631,17155,Adventure,"Arugam Bay, Galle Fort, Haggala Garden"
+Place_542,6.40238,79.886975,18883,"Nature, Beach","Polonnaruwa Ruins, Adam's Peak, Horton Plains"
+Place_543,7.036474,80.939132,8525,Religious,Udawalawe National Park
+Place_544,9.621412,80.647075,8908,Adventure,"Little Adam's Peak, Temple of the Tooth"
+Place_545,8.92345,81.223074,18294,"Religious, Cultural","Sigiriya Museum, Mirissa Beach, Pidurangala Rock, Temple of the Tooth"
+Place_546,7.589807,80.447082,17227,Religious,"Little Adam's Peak, Adam's Peak, Temple of the Tooth"
+Place_547,6.630195,81.253769,9955,Adventure,Haggala Garden
+Place_548,7.469052,81.15373,16838,Nature,"Sigiriya Museum, Little Adam's Peak, Adam's Peak, Horton Plains"
+Place_549,7.860594,80.207802,16745,"Cultural, Religious","Horton Plains, Galle Fort, Ruwanwelisaya Stupa, Adam's Peak"
+Place_550,8.946384,80.264915,12575,"Nature, Wildlife, Adventure","Temple of the Tooth, Pidurangala Rock, Arugam Bay, Polonnaruwa Ruins, Yala National Park"
+Place_551,9.407072,80.470691,13152,"Wildlife, Religious","Temple of the Tooth, Gregory Lake"
+Place_552,8.580695,79.791339,15761,"Nature, Cultural","Temple of the Tooth, Adam's Peak"
+Place_553,7.868928,81.284368,14729,Wildlife,"Polonnaruwa Ruins, Pidurangala Rock, Yala National Park"
+Place_554,9.706658,81.269522,19754,"Cultural, Nature","Horton Plains, Sigiriya Museum, Little Adam's Peak"
+Place_555,8.856765,80.973832,17014,"Wildlife, Nature","Jungle Beach, Nine Arches Bridge"
+Place_556,8.24355,81.248007,6306,"Adventure, Wildlife, Religious",Horton Plains
+Place_557,7.495559,80.032424,15600,"Cultural, Nature","Haggala Garden, Arugam Bay, Jaya Sri Maha Bodhi"
+Place_558,6.512128,80.532024,5270,Adventure,"Adam's Peak, Pidurangala Rock"
+Place_559,8.885748,79.874922,14829,Adventure,"Temple of the Tooth, Gregory Lake, Galle Fort"
+Place_560,8.033313,80.499859,4028,"Cultural, Wildlife",Pidurangala Rock
+Place_561,7.708047,80.486558,12729,"Nature, Beach","Nine Arches Bridge, Ruwanwelisaya Stupa, Arugam Bay"
+Place_562,8.041309,80.379998,17605,"Religious, Adventure, Cultural","Little Adam's Peak, Gregory Lake"
+Place_563,8.093043,81.555988,18390,"Cultural, Religious, Wildlife","Horton Plains, Polonnaruwa Ruins"
+Place_564,8.16369,81.240644,4929,"Nature, Wildlife, Adventure",Jaya Sri Maha Bodhi
+Place_565,5.990949,80.068399,13855,Beach,"Mirissa Beach, Dambulla Cave Temple, Pidurangala Rock"
+Place_566,8.693448,80.645698,17945,"Nature, Beach, Religious","Dambulla Cave Temple, Haggala Garden"
+Place_567,9.330521,80.7241,3974,"Nature, Religious",Galle Fort
+Place_568,7.104961,80.461026,8398,"Nature, Religious",Haggala Garden
+Place_569,7.14652,81.640783,12851,Religious,"Udawalawe National Park, Yala National Park, Haggala Garden, Little Adam's Peak"
+Place_570,8.459027,80.123325,12729,"Nature, Adventure, Cultural","Yala National Park, Gregory Lake, Pidurangala Rock, Haggala Garden"
+Place_571,8.788144,81.00564,19392,"Beach, Nature","Pidurangala Rock, Dambulla Cave Temple, Polonnaruwa Ruins"
+Place_572,7.95831,81.023801,15217,"Cultural, Adventure","Adam's Peak, Udawalawe National Park, Ruwanwelisaya Stupa, Little Adam's Peak, Jungle Beach"
+Place_573,6.831794,81.346673,19815,"Nature, Wildlife","Gregory Lake, Nine Arches Bridge, Sigiriya Museum, Jaya Sri Maha Bodhi, Mirissa Beach"
+Place_574,7.891746,81.637287,14141,Nature,"Adam's Peak, Sigiriya Museum, Haggala Garden, Horton Plains"
+Place_575,9.459995,81.418751,17445,"Wildlife, Religious, Beach","Little Adam's Peak, Galle Fort, Nine Arches Bridge, Udawalawe National Park, Pidurangala Rock"
+Place_576,8.992446,80.816112,15547,"Cultural, Beach","Sigiriya Museum, Yala National Park, Mirissa Beach"
+Place_577,9.729929,80.694151,12957,"Beach, Religious, Nature","Udawalawe National Park, Ambewela Farm, Sigiriya Museum, Adam's Peak"
+Place_578,8.464467,80.263978,3968,Adventure,Nine Arches Bridge
+Place_579,8.184575,81.653917,5714,"Cultural, Nature, Religious","Polonnaruwa Ruins, Pidurangala Rock"
+Place_580,7.4708,81.832676,2207,Adventure,Haggala Garden
+Place_581,8.564364,80.109852,14756,Religious,"Pidurangala Rock, Ruwanwelisaya Stupa"
+Place_582,8.299192,81.662307,18305,Religious,"Galle Fort, Dambulla Cave Temple, Polonnaruwa Ruins, Gregory Lake, Sigiriya Museum"
+Place_583,7.173984,80.365446,9198,Adventure,"Jungle Beach, Arugam Bay, Mirissa Beach"
+Place_584,8.016016,80.675308,3834,"Beach, Religious, Adventure",Gregory Lake
+Place_585,6.372352,80.720686,17617,"Adventure, Cultural, Beach","Arugam Bay, Galle Fort, Ambewela Farm, Polonnaruwa Ruins, Temple of the Tooth"
+Place_586,8.904433,81.88602,2124,"Wildlife, Adventure",Sigiriya Museum
+Place_587,8.601895,80.141903,18663,"Religious, Cultural","Gregory Lake, Arugam Bay, Mirissa Beach, Horton Plains"
+Place_588,7.732774,79.963034,2511,"Cultural, Beach, Nature",Ruwanwelisaya Stupa
+Place_589,9.536325,81.743476,18901,"Nature, Religious","Jaya Sri Maha Bodhi, Polonnaruwa Ruins, Udawalawe National Park, Ambewela Farm"
+Place_590,8.2281,81.351316,18546,"Religious, Wildlife","Ambewela Farm, Adam's Peak"
+Place_591,9.105677,80.391894,12777,"Cultural, Beach, Wildlife","Haggala Garden, Yala National Park, Nine Arches Bridge"
+Place_592,6.31422,80.838836,18278,"Wildlife, Beach, Adventure","Polonnaruwa Ruins, Little Adam's Peak, Horton Plains, Udawalawe National Park"
+Place_593,6.039727,80.77501,15620,"Wildlife, Cultural, Adventure","Little Adam's Peak, Jungle Beach, Gregory Lake"
+Place_594,5.933289,81.858926,4553,Adventure,Jungle Beach
+Place_595,8.225096,81.059595,16102,"Wildlife, Beach","Ambewela Farm, Jaya Sri Maha Bodhi, Jungle Beach, Ruwanwelisaya Stupa, Polonnaruwa Ruins"
+Place_596,6.058832,79.915673,16076,"Wildlife, Religious","Jaya Sri Maha Bodhi, Horton Plains, Gregory Lake, Mirissa Beach"
+Place_597,9.454554,81.841756,4383,Nature,"Ambewela Farm, Yala National Park"
+Place_598,7.624736,80.885645,12399,"Nature, Adventure, Wildlife","Horton Plains, Mirissa Beach, Galle Fort, Jaya Sri Maha Bodhi, Ambewela Farm"
+Place_599,6.317125,81.655055,9387,"Cultural, Wildlife, Religious","Horton Plains, Yala National Park"
+Place_600,6.229967,79.992637,13155,"Beach, Adventure, Religious","Jungle Beach, Haggala Garden, Pidurangala Rock, Dambulla Cave Temple"
+Place_601,7.718093,81.123202,16221,Cultural,"Horton Plains, Ruwanwelisaya Stupa, Dambulla Cave Temple"
+Place_602,7.756486,81.137625,17500,"Religious, Adventure","Udawalawe National Park, Jungle Beach, Nine Arches Bridge, Dambulla Cave Temple"
+Place_603,7.134127,80.629992,6526,"Adventure, Beach",Haggala Garden
+Place_604,7.841933,81.463042,8436,"Beach, Religious, Wildlife",Dambulla Cave Temple
+Place_605,7.422361,81.649917,19199,"Religious, Nature, Cultural","Nine Arches Bridge, Haggala Garden, Galle Fort, Polonnaruwa Ruins, Gregory Lake"
+Place_606,7.443428,81.865209,8915,"Wildlife, Cultural","Pidurangala Rock, Horton Plains"
+Place_607,6.194877,80.73796,6825,"Cultural, Adventure",Udawalawe National Park
+Place_608,7.699238,80.222456,15867,Beach,"Dambulla Cave Temple, Arugam Bay, Sigiriya Museum, Horton Plains, Ambewela Farm"
+Place_609,7.442446,80.225546,5540,Beach,"Horton Plains, Polonnaruwa Ruins, Galle Fort"
+Place_610,9.765855,79.906929,18703,Wildlife,"Gregory Lake, Nine Arches Bridge, Dambulla Cave Temple, Galle Fort, Ambewela Farm"
+Place_611,7.79055,80.588501,13869,"Adventure, Cultural, Wildlife","Haggala Garden, Ruwanwelisaya Stupa, Adam's Peak, Jungle Beach"
+Place_612,8.910214,80.139102,19490,"Beach, Wildlife","Gregory Lake, Haggala Garden, Jaya Sri Maha Bodhi, Jungle Beach, Adam's Peak"
+Place_613,7.810956,80.576343,17563,"Religious, Wildlife, Nature","Haggala Garden, Ambewela Farm, Polonnaruwa Ruins, Temple of the Tooth"
+Place_614,8.795458,80.527434,5702,Nature,Nine Arches Bridge
+Place_615,9.180688,81.322838,2714,"Religious, Cultural, Adventure","Ruwanwelisaya Stupa, Haggala Garden, Arugam Bay"
+Place_616,9.735776,81.159727,18174,"Beach, Wildlife, Nature","Udawalawe National Park, Gregory Lake, Nine Arches Bridge, Adam's Peak, Dambulla Cave Temple"
+Place_617,7.373678,81.150055,19055,"Wildlife, Nature, Beach","Jaya Sri Maha Bodhi, Polonnaruwa Ruins, Adam's Peak, Udawalawe National Park"
+Place_618,8.325419,81.223225,15807,"Adventure, Nature","Jaya Sri Maha Bodhi, Little Adam's Peak, Yala National Park, Jungle Beach"
+Place_619,7.208148,80.798318,18647,"Religious, Beach","Galle Fort, Dambulla Cave Temple, Mirissa Beach, Gregory Lake, Little Adam's Peak"
+Place_620,9.493289,81.440825,6727,Wildlife,"Jaya Sri Maha Bodhi, Ambewela Farm, Galle Fort"
+Place_621,6.632471,80.602468,2600,Cultural,"Galle Fort, Polonnaruwa Ruins"
+Place_622,8.597851,80.767872,18316,Beach,"Nine Arches Bridge, Polonnaruwa Ruins, Sigiriya Museum, Yala National Park"
+Place_623,9.208475,80.726892,17953,"Wildlife, Religious, Cultural","Yala National Park, Gregory Lake, Mirissa Beach, Adam's Peak, Horton Plains"
+Place_624,6.100596,80.877574,9162,"Wildlife, Cultural","Mirissa Beach, Yala National Park"
+Place_625,8.397677,80.573305,7390,"Wildlife, Beach",Jungle Beach
+Place_626,8.448958,80.766529,18707,"Cultural, Beach","Mirissa Beach, Pidurangala Rock, Dambulla Cave Temple, Udawalawe National Park"
+Place_627,8.843675,80.893451,8440,"Beach, Cultural, Wildlife","Yala National Park, Pidurangala Rock"
+Place_628,8.624505,80.042513,15272,"Wildlife, Beach, Adventure","Galle Fort, Dambulla Cave Temple, Pidurangala Rock, Temple of the Tooth, Adam's Peak"
+Place_629,6.791776,80.395871,8940,Wildlife,"Jungle Beach, Mirissa Beach, Horton Plains"
+Place_630,7.073216,81.172885,8364,"Wildlife, Nature, Beach","Jaya Sri Maha Bodhi, Gregory Lake, Jungle Beach"
+Place_631,6.585455,79.93605,8393,"Beach, Religious","Mirissa Beach, Ambewela Farm, Nine Arches Bridge"
+Place_632,8.433637,81.279601,5210,Religious,"Jungle Beach, Polonnaruwa Ruins, Little Adam's Peak"
+Place_633,8.760622,80.902985,7063,"Religious, Nature","Jungle Beach, Adam's Peak, Temple of the Tooth"
+Place_634,7.917967,80.290385,6162,Adventure,Polonnaruwa Ruins
+Place_635,6.51801,81.048829,15832,"Adventure, Wildlife","Jungle Beach, Haggala Garden, Galle Fort, Pidurangala Rock, Sigiriya Museum"
+Place_636,5.903671,80.20976,9950,"Cultural, Religious","Pidurangala Rock, Polonnaruwa Ruins"
+Place_637,7.036925,81.231977,5010,Religious,Gregory Lake
+Place_638,6.755918,80.106443,13338,Cultural,"Ruwanwelisaya Stupa, Adam's Peak, Pidurangala Rock"
+Place_639,8.220415,81.277846,7000,"Beach, Wildlife, Cultural","Jungle Beach, Mirissa Beach"
+Place_640,7.252059,81.125858,12635,Nature,"Gregory Lake, Temple of the Tooth, Udawalawe National Park, Yala National Park"
+Place_641,9.159064,80.379388,13892,"Adventure, Cultural, Religious","Ruwanwelisaya Stupa, Polonnaruwa Ruins, Dambulla Cave Temple, Adam's Peak"
+Place_642,9.00279,80.976335,14311,"Religious, Nature","Dambulla Cave Temple, Udawalawe National Park"
+Place_643,7.336392,81.554161,7038,"Beach, Religious",Mirissa Beach
+Place_644,8.053213,80.002646,16489,"Nature, Wildlife, Beach","Temple of the Tooth, Haggala Garden, Galle Fort, Ambewela Farm"
+Place_645,7.450989,80.193049,14704,"Wildlife, Nature","Dambulla Cave Temple, Ruwanwelisaya Stupa, Mirissa Beach, Little Adam's Peak, Gregory Lake"
+Place_646,8.686427,81.015372,2146,Nature,Nine Arches Bridge
+Place_647,9.687764,79.833691,17214,"Religious, Adventure","Udawalawe National Park, Adam's Peak, Nine Arches Bridge, Pidurangala Rock"
+Place_648,7.510999,80.329634,19582,"Wildlife, Religious","Adam's Peak, Temple of the Tooth, Haggala Garden"
+Place_649,9.774405,81.64607,19621,Adventure,"Sigiriya Museum, Arugam Bay, Temple of the Tooth, Jungle Beach"
+Place_650,8.484105,81.774498,17625,Beach,"Mirissa Beach, Gregory Lake, Polonnaruwa Ruins, Galle Fort, Jaya Sri Maha Bodhi"
+Place_651,6.145312,81.538132,18474,"Wildlife, Cultural, Adventure","Temple of the Tooth, Polonnaruwa Ruins, Ambewela Farm"
+Place_652,9.574499,80.523675,5779,"Cultural, Religious",Nine Arches Bridge
+Place_653,6.634264,80.372619,18152,"Wildlife, Adventure","Arugam Bay, Ambewela Farm, Pidurangala Rock"
+Place_654,6.077646,80.352116,16337,"Wildlife, Beach, Religious","Jungle Beach, Polonnaruwa Ruins, Jaya Sri Maha Bodhi, Galle Fort, Pidurangala Rock"
+Place_655,7.574352,79.873599,5800,"Adventure, Wildlife, Nature","Arugam Bay, Polonnaruwa Ruins"
+Place_656,7.122371,80.441608,13487,"Adventure, Religious, Wildlife","Udawalawe National Park, Jaya Sri Maha Bodhi, Arugam Bay, Galle Fort"
+Place_657,8.17017,81.461148,18936,"Religious, Cultural","Jaya Sri Maha Bodhi, Sigiriya Museum, Temple of the Tooth, Udawalawe National Park, Jungle Beach"
+Place_658,6.144374,80.238073,6291,"Religious, Beach",Adam's Peak
+Place_659,6.60956,81.082268,5891,"Nature, Beach","Horton Plains, Nine Arches Bridge"
+Place_660,7.149952,79.859445,16547,"Nature, Religious, Wildlife","Adam's Peak, Temple of the Tooth, Dambulla Cave Temple, Polonnaruwa Ruins"
+Place_661,6.54923,80.212805,6810,"Adventure, Wildlife, Cultural","Yala National Park, Mirissa Beach"
+Place_662,9.201446,81.656947,6420,"Wildlife, Cultural, Religious",Udawalawe National Park
+Place_663,6.044694,80.131936,15550,"Adventure, Wildlife, Beach","Temple of the Tooth, Jaya Sri Maha Bodhi, Dambulla Cave Temple, Nine Arches Bridge, Sigiriya Museum"
+Place_664,8.948887,81.240713,18427,Nature,"Jungle Beach, Galle Fort, Sigiriya Museum, Adam's Peak"
+Place_665,5.902463,79.724093,15099,"Religious, Cultural, Nature","Horton Plains, Arugam Bay, Sigiriya Museum, Yala National Park, Pidurangala Rock"
+Place_666,7.054675,80.910426,16034,"Nature, Cultural, Adventure","Gregory Lake, Dambulla Cave Temple, Jaya Sri Maha Bodhi, Little Adam's Peak, Ambewela Farm"
+Place_667,6.048392,81.001353,17454,"Nature, Adventure","Ambewela Farm, Jungle Beach, Horton Plains, Galle Fort"
+Place_668,7.821188,79.905783,7617,"Beach, Cultural",Udawalawe National Park
+Place_669,8.735272,80.636886,17067,Adventure,"Udawalawe National Park, Sigiriya Museum, Haggala Garden"
+Place_670,7.737944,79.831301,18145,"Beach, Cultural, Religious","Polonnaruwa Ruins, Jaya Sri Maha Bodhi, Horton Plains"
+Place_671,8.933709,80.930918,12212,"Religious, Cultural, Beach","Temple of the Tooth, Ambewela Farm, Little Adam's Peak, Yala National Park, Horton Plains"
+Place_672,8.611673,80.413885,15881,"Adventure, Cultural","Sigiriya Museum, Nine Arches Bridge, Temple of the Tooth, Mirissa Beach, Ruwanwelisaya Stupa"
+Place_673,8.184961,79.795919,14702,Nature,"Pidurangala Rock, Dambulla Cave Temple, Sigiriya Museum, Temple of the Tooth, Udawalawe National Park"
+Place_674,8.964594,80.22432,7547,"Adventure, Beach",Arugam Bay
+Place_675,6.362504,80.57765,19566,Nature,"Yala National Park, Temple of the Tooth, Gregory Lake, Polonnaruwa Ruins, Galle Fort"
+Place_676,8.321689,80.924396,2608,"Beach, Adventure","Mirissa Beach, Yala National Park, Galle Fort"
+Place_677,9.120365,81.714862,15372,"Religious, Wildlife, Beach","Sigiriya Museum, Dambulla Cave Temple, Temple of the Tooth, Udawalawe National Park, Yala National Park"
+Place_678,6.925556,81.043954,4454,Nature,Gregory Lake
+Place_679,6.681864,81.561772,12173,"Beach, Cultural","Jungle Beach, Udawalawe National Park, Adam's Peak"
+Place_680,6.273349,80.993631,12430,"Cultural, Wildlife",Ruwanwelisaya Stupa
+Place_681,8.637366,81.443766,6521,"Cultural, Beach","Ambewela Farm, Mirissa Beach"
+Place_682,8.333134,79.714256,19804,"Religious, Adventure","Polonnaruwa Ruins, Adam's Peak, Temple of the Tooth, Jaya Sri Maha Bodhi"
+Place_683,7.982214,81.114048,19424,Cultural,"Nine Arches Bridge, Jaya Sri Maha Bodhi"
+Place_684,8.929578,80.335457,14746,"Nature, Beach, Wildlife","Pidurangala Rock, Mirissa Beach, Ruwanwelisaya Stupa, Udawalawe National Park"
+Place_685,8.332254,80.921879,15830,"Adventure, Religious, Beach","Little Adam's Peak, Udawalawe National Park"
+Place_686,9.494299,80.899382,13501,"Religious, Adventure",Pidurangala Rock
+Place_687,8.927662,80.609963,15100,"Cultural, Wildlife","Nine Arches Bridge, Horton Plains"
+Place_688,9.482239,80.600586,12540,"Beach, Cultural, Religious","Sigiriya Museum, Gregory Lake, Ruwanwelisaya Stupa"
+Place_689,7.959909,81.18897,17203,Religious,"Udawalawe National Park, Nine Arches Bridge, Arugam Bay, Horton Plains, Ambewela Farm"
+Place_690,6.591891,80.114535,17208,"Nature, Beach, Cultural",Mirissa Beach
+Place_691,8.587291,79.899019,14581,Cultural,"Udawalawe National Park, Horton Plains, Galle Fort, Pidurangala Rock"
+Place_692,8.483412,80.9312,13483,"Religious, Cultural, Beach","Horton Plains, Mirissa Beach, Arugam Bay, Galle Fort, Haggala Garden"
+Place_693,7.294654,80.007846,19811,Beach,"Galle Fort, Nine Arches Bridge, Mirissa Beach, Little Adam's Peak"
+Place_694,8.939886,81.662567,16785,Beach,"Little Adam's Peak, Mirissa Beach, Jungle Beach, Sigiriya Museum"
+Place_695,7.652088,80.681213,14228,"Cultural, Beach, Adventure","Galle Fort, Dambulla Cave Temple, Udawalawe National Park, Little Adam's Peak"
+Place_696,6.996564,80.79962,17360,Nature,"Ruwanwelisaya Stupa, Galle Fort, Haggala Garden, Mirissa Beach"
+Place_697,7.198371,81.081647,13001,"Beach, Cultural, Wildlife","Jaya Sri Maha Bodhi, Dambulla Cave Temple, Gregory Lake, Adam's Peak"
+Place_698,8.96232,79.884575,19103,"Beach, Nature, Wildlife","Udawalawe National Park, Galle Fort, Horton Plains"
+Place_699,7.08661,81.182655,16919,"Beach, Cultural","Polonnaruwa Ruins, Arugam Bay"
+Place_700,8.972443,81.23771,13889,"Beach, Cultural, Adventure","Yala National Park, Udawalawe National Park, Adam's Peak, Arugam Bay"
+Place_701,9.320553,80.793521,16903,Cultural,"Nine Arches Bridge, Jungle Beach, Adam's Peak, Temple of the Tooth, Jaya Sri Maha Bodhi"
+Place_702,6.037497,80.275532,16000,"Wildlife, Religious, Cultural","Temple of the Tooth, Dambulla Cave Temple, Horton Plains, Yala National Park, Mirissa Beach"
+Place_703,6.544172,80.352876,16036,"Beach, Wildlife, Religious","Ruwanwelisaya Stupa, Temple of the Tooth"
+Place_704,7.324401,81.887096,12578,"Beach, Nature, Cultural","Galle Fort, Adam's Peak, Yala National Park, Nine Arches Bridge, Ambewela Farm"
+Place_705,7.991788,81.254663,13353,Beach,"Adam's Peak, Mirissa Beach, Pidurangala Rock"
+Place_706,8.205912,80.836374,14185,"Wildlife, Nature, Cultural",Adam's Peak
+Place_707,8.029686,81.5316,6819,Religious,Horton Plains
+Place_708,7.559655,80.706184,14146,Religious,"Little Adam's Peak, Nine Arches Bridge, Temple of the Tooth, Gregory Lake"
+Place_709,7.383247,80.529027,8843,Beach,"Dambulla Cave Temple, Jungle Beach"
+Place_710,6.056771,80.400795,5635,"Religious, Nature","Jungle Beach, Adam's Peak"
+Place_711,6.144313,80.000389,14724,Adventure,"Mirissa Beach, Gregory Lake, Jungle Beach, Sigiriya Museum, Haggala Garden"
+Place_712,8.570769,81.675639,19925,"Religious, Wildlife","Sigiriya Museum, Yala National Park"
+Place_713,9.342604,80.671015,8756,"Cultural, Wildlife, Adventure",Ambewela Farm
+Place_714,8.454862,81.53431,7798,"Wildlife, Religious, Adventure",Polonnaruwa Ruins
+Place_715,6.210082,80.950168,16331,"Adventure, Nature","Little Adam's Peak, Udawalawe National Park, Temple of the Tooth, Yala National Park, Gregory Lake"
+Place_716,6.972229,80.007537,5125,"Adventure, Religious, Wildlife","Arugam Bay, Galle Fort, Horton Plains"
+Place_717,8.044646,81.324111,3295,Wildlife,"Ambewela Farm, Yala National Park"
+Place_718,6.091041,80.633518,6885,"Wildlife, Nature, Adventure","Arugam Bay, Pidurangala Rock"
+Place_719,7.993463,81.251863,13914,"Adventure, Cultural","Horton Plains, Yala National Park, Temple of the Tooth, Jaya Sri Maha Bodhi"
+Place_720,8.646651,80.081174,13566,"Religious, Nature, Cultural","Arugam Bay, Haggala Garden, Little Adam's Peak, Sigiriya Museum"
+Place_721,8.249547,80.345799,14541,"Wildlife, Adventure","Little Adam's Peak, Ruwanwelisaya Stupa, Mirissa Beach"
+Place_722,7.478639,81.128715,5860,"Adventure, Wildlife, Beach",Polonnaruwa Ruins
+Place_723,9.740684,80.540887,15862,Beach,"Temple of the Tooth, Polonnaruwa Ruins, Jaya Sri Maha Bodhi, Ambewela Farm"
+Place_724,6.342852,80.571016,13266,Cultural,"Galle Fort, Gregory Lake, Pidurangala Rock, Dambulla Cave Temple, Yala National Park"
+Place_725,6.484618,81.188347,12316,"Cultural, Beach","Gregory Lake, Nine Arches Bridge, Jungle Beach"
+Place_726,6.082629,81.347422,13556,Wildlife,"Ambewela Farm, Udawalawe National Park"
+Place_727,6.651226,80.855399,7433,Cultural,"Jungle Beach, Arugam Bay"
+Place_728,7.655542,81.468596,19459,"Beach, Nature","Nine Arches Bridge, Horton Plains, Udawalawe National Park, Ruwanwelisaya Stupa"
+Place_729,8.524918,80.319687,14010,"Cultural, Religious","Sigiriya Museum, Ambewela Farm, Temple of the Tooth, Jaya Sri Maha Bodhi"
+Place_730,8.958231,81.731286,4068,"Beach, Nature, Religious","Adam's Peak, Horton Plains, Arugam Bay"
+Place_731,7.288752,80.832139,13445,Nature,"Temple of the Tooth, Pidurangala Rock, Mirissa Beach, Ambewela Farm"
+Place_732,7.884106,81.120985,13513,"Nature, Beach, Cultural","Jaya Sri Maha Bodhi, Adam's Peak, Sigiriya Museum"
+Place_733,6.51536,79.920074,12981,"Adventure, Nature","Polonnaruwa Ruins, Arugam Bay, Ruwanwelisaya Stupa"
+Place_734,8.523559,81.862721,14356,"Adventure, Beach, Nature","Jaya Sri Maha Bodhi, Gregory Lake, Udawalawe National Park, Ruwanwelisaya Stupa, Jungle Beach"
+Place_735,6.779236,81.402568,7746,Nature,Ruwanwelisaya Stupa
+Place_736,6.780811,81.72302,18495,"Beach, Adventure","Udawalawe National Park, Jaya Sri Maha Bodhi, Gregory Lake, Little Adam's Peak, Temple of the Tooth"
+Place_737,7.807933,80.026922,19870,"Cultural, Wildlife, Adventure","Udawalawe National Park, Pidurangala Rock"
+Place_738,6.046062,81.838908,2199,"Cultural, Adventure","Sigiriya Museum, Yala National Park"
+Place_739,7.669285,80.1028,2766,Cultural,Udawalawe National Park
+Place_740,6.911083,81.485898,12275,"Nature, Beach, Cultural","Ambewela Farm, Udawalawe National Park, Yala National Park, Adam's Peak, Dambulla Cave Temple"
+Place_741,9.747058,79.879131,16890,"Wildlife, Beach","Yala National Park, Polonnaruwa Ruins, Haggala Garden, Dambulla Cave Temple, Ruwanwelisaya Stupa"
+Place_742,9.763983,81.590124,17487,"Religious, Adventure, Wildlife","Dambulla Cave Temple, Adam's Peak, Horton Plains, Udawalawe National Park, Ruwanwelisaya Stupa"
+Place_743,8.535412,80.463287,18800,"Beach, Religious","Dambulla Cave Temple, Gregory Lake, Mirissa Beach, Jaya Sri Maha Bodhi, Yala National Park"
+Place_744,6.96822,80.480775,18461,"Wildlife, Adventure","Horton Plains, Ruwanwelisaya Stupa, Udawalawe National Park, Temple of the Tooth, Ambewela Farm"
+Place_745,7.868536,80.875618,2806,"Nature, Wildlife","Temple of the Tooth, Galle Fort, Haggala Garden"
+Place_746,8.961729,80.502742,12944,Nature,"Nine Arches Bridge, Ambewela Farm, Ruwanwelisaya Stupa, Temple of the Tooth, Arugam Bay"
+Place_747,6.323731,80.413302,16670,Religious,"Ambewela Farm, Haggala Garden, Yala National Park, Little Adam's Peak, Ruwanwelisaya Stupa"
+Place_748,7.793836,80.150951,13699,"Nature, Beach, Religious","Arugam Bay, Horton Plains, Udawalawe National Park, Nine Arches Bridge, Polonnaruwa Ruins"
+Place_749,9.427646,80.987049,4111,"Wildlife, Beach, Nature","Mirissa Beach, Polonnaruwa Ruins, Dambulla Cave Temple, Ambewela Farm"
+Place_750,9.430684,81.650526,19311,Cultural,"Adam's Peak, Jaya Sri Maha Bodhi, Horton Plains, Galle Fort"
+Place_751,8.412508,81.34403,18451,Nature,"Polonnaruwa Ruins, Galle Fort, Dambulla Cave Temple, Mirissa Beach"
+Place_752,7.129427,80.971126,4566,"Religious, Adventure, Nature","Yala National Park, Ambewela Farm"
+Place_753,7.05566,81.749745,2876,"Cultural, Adventure",Udawalawe National Park
+Place_754,7.138518,80.513873,6051,"Nature, Religious, Beach","Pidurangala Rock, Horton Plains, Arugam Bay, Gregory Lake"
+Place_755,8.534986,79.728322,17408,"Adventure, Cultural, Nature","Haggala Garden, Galle Fort, Dambulla Cave Temple, Jungle Beach, Ambewela Farm"
+Place_756,7.873677,81.463517,12755,"Nature, Wildlife, Beach","Mirissa Beach, Haggala Garden, Little Adam's Peak"
+Place_757,8.522853,80.488938,18172,Nature,"Jaya Sri Maha Bodhi, Nine Arches Bridge, Arugam Bay, Gregory Lake, Ambewela Farm"
+Place_758,8.2485,81.518644,2393,Cultural,Mirissa Beach
+Place_759,7.996384,80.554674,16655,"Cultural, Adventure","Jaya Sri Maha Bodhi, Horton Plains, Gregory Lake, Little Adam's Peak, Arugam Bay"
+Place_760,6.593095,80.244263,12507,Adventure,"Ambewela Farm, Udawalawe National Park, Galle Fort, Haggala Garden"
+Place_761,6.629562,80.219964,4358,Beach,"Nine Arches Bridge, Galle Fort, Gregory Lake"
+Place_762,8.674995,80.031057,19806,"Wildlife, Adventure, Nature","Jaya Sri Maha Bodhi, Pidurangala Rock, Sigiriya Museum"
+Place_763,8.685945,81.46928,19965,Cultural,"Yala National Park, Adam's Peak, Ambewela Farm, Pidurangala Rock, Jaya Sri Maha Bodhi"
+Place_764,9.329367,81.384926,17601,"Adventure, Beach, Religious","Ruwanwelisaya Stupa, Pidurangala Rock"
+Place_765,8.434518,80.270403,15157,"Nature, Religious","Galle Fort, Sigiriya Museum, Ruwanwelisaya Stupa, Horton Plains"
+Place_766,7.930637,80.663085,13530,"Cultural, Wildlife","Arugam Bay, Jungle Beach, Horton Plains, Dambulla Cave Temple"
+Place_767,7.459784,81.258422,19566,"Beach, Nature","Horton Plains, Jaya Sri Maha Bodhi, Sigiriya Museum"
+Place_768,6.648153,80.181091,12765,Beach,"Jungle Beach, Horton Plains, Ruwanwelisaya Stupa"
+Place_769,6.85019,81.814473,13001,Adventure,"Dambulla Cave Temple, Haggala Garden"
+Place_770,8.752659,79.972101,17967,"Wildlife, Religious, Beach","Ambewela Farm, Temple of the Tooth, Haggala Garden"
+Place_771,9.770613,80.7845,13292,"Beach, Adventure","Adam's Peak, Temple of the Tooth, Ruwanwelisaya Stupa, Ambewela Farm, Mirissa Beach"
+Place_772,8.934926,80.649337,19664,"Nature, Wildlife","Jungle Beach, Nine Arches Bridge"
+Place_773,7.170597,80.69386,14709,Religious,"Sigiriya Museum, Yala National Park, Little Adam's Peak, Nine Arches Bridge"
+Place_774,9.788805,81.829985,19625,"Adventure, Nature","Little Adam's Peak, Gregory Lake, Adam's Peak"
+Place_775,6.255078,81.089853,14328,"Beach, Religious","Haggala Garden, Adam's Peak"
+Place_776,7.123364,80.042353,13013,"Beach, Wildlife, Adventure","Horton Plains, Haggala Garden, Mirissa Beach"
+Place_777,7.477764,81.231694,16373,"Nature, Cultural",Arugam Bay
+Place_778,7.054155,80.859581,18451,Adventure,"Sigiriya Museum, Polonnaruwa Ruins, Nine Arches Bridge, Arugam Bay"
+Place_779,8.138043,80.379777,6871,"Religious, Adventure, Beach",Little Adam's Peak
+Place_780,9.211502,79.740867,5670,Adventure,"Nine Arches Bridge, Ambewela Farm"
+Place_781,6.828395,80.273792,15606,"Religious, Adventure, Beach","Mirissa Beach, Yala National Park, Little Adam's Peak, Galle Fort"
+Place_782,6.999308,80.225289,14588,"Wildlife, Beach, Cultural","Ambewela Farm, Temple of the Tooth, Haggala Garden, Gregory Lake"
+Place_783,9.473211,80.337876,13470,"Beach, Nature","Ambewela Farm, Jaya Sri Maha Bodhi, Dambulla Cave Temple, Jungle Beach, Polonnaruwa Ruins"
+Place_784,9.234446,80.798992,19266,Cultural,"Adam's Peak, Temple of the Tooth, Horton Plains, Sigiriya Museum"
+Place_785,7.118857,81.032298,19186,"Nature, Adventure","Gregory Lake, Polonnaruwa Ruins, Galle Fort, Adam's Peak"
+Place_786,6.953513,80.564126,7139,"Religious, Adventure, Wildlife",Polonnaruwa Ruins
+Place_787,8.383403,81.191816,12819,"Wildlife, Adventure","Arugam Bay, Temple of the Tooth, Pidurangala Rock"
+Place_788,6.847691,81.160262,8856,"Nature, Cultural",Dambulla Cave Temple
+Place_789,9.574172,80.186164,3847,Cultural,Horton Plains
+Place_790,8.010535,80.36526,19409,"Adventure, Wildlife, Nature","Nine Arches Bridge, Little Adam's Peak, Haggala Garden, Jungle Beach"
+Place_791,6.715334,81.620806,17750,"Cultural, Beach, Wildlife","Horton Plains, Ambewela Farm, Little Adam's Peak, Mirissa Beach"
+Place_792,6.928742,80.964249,9580,"Wildlife, Nature, Religious","Yala National Park, Arugam Bay"
+Place_793,9.517719,81.387636,18980,"Beach, Wildlife, Nature","Horton Plains, Yala National Park, Pidurangala Rock, Galle Fort"
+Place_794,5.932544,80.671071,13707,Cultural,"Ruwanwelisaya Stupa, Dambulla Cave Temple, Little Adam's Peak, Nine Arches Bridge"
+Place_795,6.201491,80.106505,9331,"Religious, Nature, Beach","Haggala Garden, Arugam Bay"
+Place_796,6.514413,80.597464,16659,Wildlife,"Haggala Garden, Sigiriya Museum, Jaya Sri Maha Bodhi, Adam's Peak, Ruwanwelisaya Stupa"
+Place_797,6.184291,80.354006,8499,"Adventure, Beach",Polonnaruwa Ruins
+Place_798,9.132814,79.892931,17331,"Beach, Adventure, Nature","Nine Arches Bridge, Gregory Lake"
+Place_799,6.022351,81.227625,6338,"Cultural, Religious, Beach",Sigiriya Museum
+Place_800,7.364731,81.352649,11572,Adventure,"Jaya Sri Maha Bodhi, Little Adam's Peak, Polonnaruwa Ruins, Galle Fort"
+Place_801,9.573304,79.923201,8324,"Beach, Wildlife, Adventure",Dambulla Cave Temple
+Place_802,8.981281,81.16401,15609,"Religious, Wildlife, Adventure","Arugam Bay, Dambulla Cave Temple, Haggala Garden, Jungle Beach"
+Place_803,9.127929,79.997165,8332,"Beach, Cultural, Religious","Adam's Peak, Nine Arches Bridge"
+Place_804,6.898679,81.539348,9574,Wildlife,"Little Adam's Peak, Polonnaruwa Ruins"
+Place_805,9.794447,79.701349,13027,"Cultural, Beach","Sigiriya Museum, Horton Plains, Haggala Garden, Little Adam's Peak"
+Place_806,7.310849,80.848185,12807,"Cultural, Beach, Wildlife","Gregory Lake, Adam's Peak, Ambewela Farm, Arugam Bay, Yala National Park"
+Place_807,8.984864,81.590725,18520,"Beach, Wildlife","Mirissa Beach, Arugam Bay, Ambewela Farm, Ruwanwelisaya Stupa"
+Place_808,8.584399,81.861601,14506,Nature,"Galle Fort, Ruwanwelisaya Stupa"
+Place_809,8.088236,81.820109,12014,"Religious, Cultural","Pidurangala Rock, Sigiriya Museum"
+Place_810,6.901606,81.307274,16067,Religious,"Horton Plains, Ambewela Farm, Udawalawe National Park"
+Place_811,8.018912,81.797552,13300,"Nature, Wildlife","Nine Arches Bridge, Arugam Bay, Ambewela Farm"
+Place_812,9.684965,80.389628,15476,"Cultural, Religious","Mirissa Beach, Nine Arches Bridge, Horton Plains"
+Place_813,6.547371,80.587617,12256,Adventure,"Jaya Sri Maha Bodhi, Pidurangala Rock, Temple of the Tooth"
+Place_814,7.815112,79.946709,15186,"Beach, Religious, Nature","Temple of the Tooth, Udawalawe National Park, Ambewela Farm, Gregory Lake, Pidurangala Rock"
+Place_815,7.38382,80.466158,18630,"Nature, Adventure","Ambewela Farm, Temple of the Tooth, Pidurangala Rock"
+Place_816,8.932603,81.642553,19127,"Religious, Cultural, Wildlife","Arugam Bay, Polonnaruwa Ruins, Temple of the Tooth"
+Place_817,7.01747,81.331399,18947,"Religious, Wildlife","Temple of the Tooth, Jaya Sri Maha Bodhi, Udawalawe National Park, Jungle Beach, Sigiriya Museum"
+Place_818,7.296734,80.014308,18162,"Religious, Cultural","Mirissa Beach, Ambewela Farm, Jungle Beach, Udawalawe National Park"
+Place_819,8.858563,80.531778,15290,"Beach, Adventure","Ruwanwelisaya Stupa, Arugam Bay, Polonnaruwa Ruins, Gregory Lake, Jaya Sri Maha Bodhi"
+Place_820,9.708413,80.789656,12687,"Religious, Cultural, Nature","Mirissa Beach, Ambewela Farm, Temple of the Tooth, Galle Fort, Yala National Park"
+Place_821,6.158458,81.618246,8810,"Cultural, Adventure",Pidurangala Rock
+Place_822,5.998838,80.252372,19995,Wildlife,"Galle Fort, Horton Plains, Jungle Beach, Adam's Peak, Arugam Bay"
+Place_823,7.155151,79.744018,8232,Cultural,"Temple of the Tooth, Adam's Peak"
+Place_824,8.866342,80.125435,16484,"Adventure, Cultural, Wildlife","Little Adam's Peak, Haggala Garden, Sigiriya Museum, Ambewela Farm, Mirissa Beach"
+Place_825,5.945673,80.71494,14772,"Wildlife, Nature","Mirissa Beach, Udawalawe National Park, Jaya Sri Maha Bodhi, Temple of the Tooth, Ruwanwelisaya Stupa"
+Place_826,6.95086,81.28207,19679,"Adventure, Nature","Sigiriya Museum, Mirissa Beach, Haggala Garden, Yala National Park"
+Place_827,6.056236,80.042019,18392,"Religious, Nature","Dambulla Cave Temple, Little Adam's Peak, Adam's Peak"
+Place_828,7.886137,80.607424,17282,"Beach, Nature, Religious","Pidurangala Rock, Yala National Park"
+Place_829,9.595656,79.798197,2348,Nature,Sigiriya Museum
+Place_830,6.432456,81.640412,17756,"Wildlife, Nature, Religious","Gregory Lake, Nine Arches Bridge, Ruwanwelisaya Stupa"
+Place_831,6.581965,79.80127,4583,"Beach, Wildlife",Galle Fort
+Place_832,6.105696,80.380664,13542,Adventure,"Jaya Sri Maha Bodhi, Gregory Lake"
+Place_833,7.14365,81.444688,17492,"Beach, Cultural","Ruwanwelisaya Stupa, Arugam Bay, Jaya Sri Maha Bodhi"
+Place_834,8.722337,81.431267,13472,"Religious, Wildlife, Beach","Arugam Bay, Galle Fort, Mirissa Beach, Pidurangala Rock"
+Place_835,9.378996,80.253192,13228,"Adventure, Cultural, Religious","Sigiriya Museum, Jaya Sri Maha Bodhi, Udawalawe National Park, Yala National Park"
+Place_836,7.525299,80.501356,18389,"Beach, Cultural, Wildlife","Adam's Peak, Haggala Garden, Yala National Park"
+Place_837,5.963242,81.855469,14786,Religious,"Arugam Bay, Temple of the Tooth, Jungle Beach, Pidurangala Rock"
+Place_838,9.338963,79.727268,15548,Nature,"Adam's Peak, Yala National Park, Haggala Garden"
+Place_839,7.543725,79.772825,4925,"Religious, Beach",Mirissa Beach
+Place_840,8.768227,81.33749,17760,"Wildlife, Adventure, Cultural","Dambulla Cave Temple, Ambewela Farm, Adam's Peak"
+Place_841,7.215974,81.218348,15316,"Beach, Nature, Adventure","Galle Fort, Pidurangala Rock"
+Place_842,9.663002,79.785288,12657,Adventure,"Arugam Bay, Adam's Peak"
+Place_843,8.748729,81.365233,12287,"Nature, Cultural","Mirissa Beach, Dambulla Cave Temple, Adam's Peak, Gregory Lake"
+Place_844,7.191657,81.466042,17613,"Adventure, Wildlife","Jungle Beach, Mirissa Beach, Jaya Sri Maha Bodhi, Nine Arches Bridge, Galle Fort"
+Place_845,6.625851,81.79325,18706,"Adventure, Beach, Religious","Adam's Peak, Sigiriya Museum, Ambewela Farm, Galle Fort"
+Place_846,9.271942,80.573186,2369,Wildlife,Jaya Sri Maha Bodhi
+Place_847,7.263223,80.017422,19176,Wildlife,"Temple of the Tooth, Polonnaruwa Ruins, Ambewela Farm, Dambulla Cave Temple"
+Place_848,6.582076,81.843166,9531,"Nature, Religious","Galle Fort, Gregory Lake"
+Place_849,9.552639,79.891301,12325,Nature,"Yala National Park, Ruwanwelisaya Stupa, Nine Arches Bridge, Pidurangala Rock, Galle Fort"
+Place_850,6.820856,80.244256,6021,"Nature, Wildlife",Yala National Park
+Place_851,7.166791,81.191409,18133,Beach,"Ambewela Farm, Mirissa Beach"
+Place_852,9.371316,81.226624,3328,"Wildlife, Beach, Cultural",Ambewela Farm
+Place_853,9.617857,80.508183,16282,Nature,"Dambulla Cave Temple, Udawalawe National Park"
+Place_854,9.418055,81.550659,16420,"Beach, Nature","Dambulla Cave Temple, Galle Fort, Sigiriya Museum, Yala National Park"
+Place_855,9.754885,81.79382,14528,"Wildlife, Adventure, Nature","Dambulla Cave Temple, Udawalawe National Park, Jungle Beach"
+Place_856,7.94682,80.270793,19316,Nature,"Jungle Beach, Nine Arches Bridge, Pidurangala Rock, Temple of the Tooth, Yala National Park"
+Place_857,8.615006,81.572587,3592,Cultural,Adam's Peak
+Place_858,9.441524,81.414684,18672,"Wildlife, Nature","Dambulla Cave Temple, Galle Fort, Nine Arches Bridge"
+Place_859,6.323253,80.554864,17755,Beach,"Ruwanwelisaya Stupa, Nine Arches Bridge, Mirissa Beach"
+Place_860,6.031705,80.518728,17811,"Cultural, Wildlife, Beach","Dambulla Cave Temple, Gregory Lake, Udawalawe National Park"
+Place_861,6.110971,81.381125,18068,Religious,"Gregory Lake, Horton Plains, Galle Fort, Udawalawe National Park, Jaya Sri Maha Bodhi"
+Place_862,8.487951,80.65846,8724,"Cultural, Wildlife",Nine Arches Bridge
+Place_863,8.591387,81.006778,18105,"Nature, Adventure","Haggala Garden, Little Adam's Peak, Ambewela Farm"
+Place_864,8.57817,81.598017,13700,"Beach, Religious","Mirissa Beach, Horton Plains"
+Place_865,5.958126,80.870717,18395,"Cultural, Wildlife","Ambewela Farm, Sigiriya Museum, Horton Plains"
+Place_866,7.17636,79.883765,2582,Beach,Temple of the Tooth
+Place_867,9.379991,81.271309,2259,"Beach, Cultural, Adventure",Horton Plains
+Place_868,8.633379,81.208375,3196,Beach,"Galle Fort, Ambewela Farm"
+Place_869,6.822183,81.047109,9328,"Nature, Cultural","Horton Plains, Arugam Bay"
+Place_870,8.206599,79.895591,19919,"Wildlife, Religious, Adventure","Horton Plains, Pidurangala Rock, Nine Arches Bridge, Haggala Garden"
+Place_871,9.650964,80.892341,6093,"Religious, Adventure",Dambulla Cave Temple
+Place_872,8.183111,80.815045,12201,Beach,"Ambewela Farm, Gregory Lake, Polonnaruwa Ruins, Dambulla Cave Temple"
+Place_873,9.741056,81.139037,5772,Cultural,"Jungle Beach, Jaya Sri Maha Bodhi, Dambulla Cave Temple"
+Place_874,7.71272,80.293729,12761,"Nature, Beach","Udawalawe National Park, Galle Fort, Ambewela Farm, Temple of the Tooth, Sigiriya Museum"
+Place_875,9.318234,80.501713,16275,Cultural,"Jungle Beach, Ambewela Farm, Haggala Garden, Arugam Bay"
+Place_876,8.867577,80.937023,15659,"Religious, Nature","Arugam Bay, Nine Arches Bridge"
+Place_877,7.611831,81.126363,16080,"Beach, Wildlife, Nature","Pidurangala Rock, Temple of the Tooth, Horton Plains"
+Place_878,8.133039,80.126203,18554,"Nature, Adventure, Cultural","Jungle Beach, Gregory Lake, Ambewela Farm, Adam's Peak, Little Adam's Peak"
+Place_879,6.544813,79.78365,17130,"Cultural, Wildlife","Dambulla Cave Temple, Sigiriya Museum, Udawalawe National Park, Jaya Sri Maha Bodhi, Yala National Park"
+Place_880,8.826963,81.701869,15593,"Adventure, Religious","Pidurangala Rock, Polonnaruwa Ruins, Gregory Lake, Sigiriya Museum"
+Place_881,7.330051,81.691858,16249,"Beach, Adventure, Wildlife","Temple of the Tooth, Pidurangala Rock, Sigiriya Museum"
+Place_882,6.185797,80.663476,19007,"Adventure, Beach, Wildlife","Adam's Peak, Polonnaruwa Ruins, Jungle Beach, Ambewela Farm"
+Place_883,7.09694,79.702397,13825,"Nature, Wildlife, Cultural","Udawalawe National Park, Dambulla Cave Temple, Temple of the Tooth, Haggala Garden"
+Place_884,9.501349,80.741444,16206,"Cultural, Religious","Mirissa Beach, Adam's Peak, Pidurangala Rock, Jungle Beach"
+Place_885,9.09405,80.294041,17573,"Adventure, Beach, Nature","Gregory Lake, Horton Plains, Jungle Beach"
+Place_886,6.360005,80.273014,16591,Nature,"Gregory Lake, Sigiriya Museum, Jaya Sri Maha Bodhi"
+Place_887,7.979004,81.094566,17881,Wildlife,"Adam's Peak, Sigiriya Museum, Galle Fort, Ruwanwelisaya Stupa"
+Place_888,6.681168,80.589419,6060,Wildlife,Jungle Beach
+Place_889,8.960509,79.742137,16050,"Beach, Cultural, Nature","Adam's Peak, Sigiriya Museum, Nine Arches Bridge"
+Place_890,8.83367,80.549049,15630,Wildlife,"Haggala Garden, Dambulla Cave Temple, Nine Arches Bridge"
+Place_891,6.912796,80.58453,16604,"Wildlife, Adventure, Religious","Galle Fort, Ruwanwelisaya Stupa"
+Place_892,7.577917,81.62495,13196,Nature,"Udawalawe National Park, Gregory Lake"
+Place_893,7.199416,81.663391,3639,"Nature, Adventure, Beach",Ruwanwelisaya Stupa
+Place_894,8.706353,79.798865,13831,Adventure,"Sigiriya Museum, Arugam Bay, Gregory Lake, Nine Arches Bridge, Horton Plains"
+Place_895,9.37262,80.907708,16257,Beach,"Pidurangala Rock, Mirissa Beach"
+Place_896,9.66466,80.961629,14604,"Wildlife, Cultural","Gregory Lake, Temple of the Tooth, Yala National Park"
+Place_897,7.804019,80.011611,16632,"Adventure, Religious","Nine Arches Bridge, Dambulla Cave Temple"
+Place_898,8.987599,80.989775,16387,Religious,"Dambulla Cave Temple, Adam's Peak, Temple of the Tooth, Galle Fort"
+Place_899,9.633456,81.836409,6843,"Cultural, Wildlife",Polonnaruwa Ruins
+Place_900,8.790913,80.128988,5536,"Adventure, Beach, Cultural",Dambulla Cave Temple
+Place_901,5.958619,81.440705,17685,"Adventure, Beach, Religious","Sigiriya Museum, Adam's Peak"
+Place_902,9.535242,81.191183,15589,Wildlife,"Pidurangala Rock, Adam's Peak"
+Place_903,9.154264,80.943205,13657,"Nature, Beach, Cultural","Galle Fort, Little Adam's Peak, Horton Plains, Pidurangala Rock, Sigiriya Museum"
+Place_904,7.319612,80.045699,15666,"Cultural, Adventure, Religious",Jaya Sri Maha Bodhi
+Place_905,8.891072,80.545064,18480,"Religious, Cultural, Wildlife","Galle Fort, Haggala Garden, Ruwanwelisaya Stupa, Dambulla Cave Temple"
+Place_906,6.65874,79.938963,17636,"Beach, Nature, Religious",Dambulla Cave Temple
+Place_907,6.286876,81.443704,14726,"Adventure, Religious","Ruwanwelisaya Stupa, Gregory Lake, Jungle Beach, Polonnaruwa Ruins, Jaya Sri Maha Bodhi"
+Place_908,8.708498,80.858559,15092,"Cultural, Wildlife, Beach",Horton Plains
+Place_909,5.952903,80.805766,12515,"Nature, Adventure, Beach",Nine Arches Bridge
+Place_910,7.960433,81.368917,16183,"Wildlife, Beach","Yala National Park, Galle Fort, Sigiriya Museum, Polonnaruwa Ruins"
+Place_911,6.255749,80.651845,17407,Adventure,Dambulla Cave Temple
+Place_912,8.720546,80.179652,15331,Cultural,Gregory Lake
+Place_913,9.242596,80.442129,18184,"Nature, Beach","Horton Plains, Haggala Garden, Dambulla Cave Temple, Polonnaruwa Ruins, Jungle Beach"
+Place_914,6.137761,81.409112,14531,"Religious, Cultural, Wildlife",Polonnaruwa Ruins
+Place_915,6.892612,80.871963,13424,Wildlife,"Polonnaruwa Ruins, Ruwanwelisaya Stupa, Adam's Peak, Ambewela Farm, Jungle Beach"
+Place_916,8.488524,80.955972,14665,Cultural,Polonnaruwa Ruins
+Place_917,7.332692,80.005876,19029,Wildlife,"Mirissa Beach, Arugam Bay, Nine Arches Bridge, Ruwanwelisaya Stupa"
+Place_918,7.425478,80.300613,14075,"Adventure, Beach","Horton Plains, Gregory Lake, Sigiriya Museum, Dambulla Cave Temple"
+Place_919,8.020947,79.860602,14333,Nature,Jungle Beach
+Place_920,9.743784,81.235698,19943,"Cultural, Wildlife, Beach","Pidurangala Rock, Arugam Bay"
+Place_921,8.225763,81.204034,14040,"Adventure, Cultural","Pidurangala Rock, Polonnaruwa Ruins"
+Place_922,6.836039,81.192882,13062,"Nature, Religious",Adam's Peak
+Place_923,7.960878,79.943282,13468,Nature,"Temple of the Tooth, Yala National Park, Little Adam's Peak"
+Place_924,9.384018,79.722052,14276,Beach,"Gregory Lake, Galle Fort, Yala National Park, Nine Arches Bridge"
+Place_925,8.1535,81.117501,15099,"Cultural, Religious, Nature","Udawalawe National Park, Haggala Garden, Adam's Peak, Little Adam's Peak"
+Place_926,9.099915,79.91142,16583,"Cultural, Adventure","Yala National Park, Pidurangala Rock, Jungle Beach, Polonnaruwa Ruins, Galle Fort"
+Place_927,7.739825,80.250574,19602,"Wildlife, Religious, Beach","Little Adam's Peak, Haggala Garden"
+Place_928,7.084685,80.478451,19589,"Religious, Nature, Beach","Ruwanwelisaya Stupa, Sigiriya Museum, Little Adam's Peak"
+Place_929,7.928775,80.784936,13827,"Nature, Wildlife","Nine Arches Bridge, Ambewela Farm, Sigiriya Museum, Galle Fort, Haggala Garden"
+Place_930,6.190955,80.062485,14567,Adventure,"Arugam Bay, Jungle Beach, Adam's Peak"
+Place_931,8.103553,81.45056,15791,Beach,"Gregory Lake, Jungle Beach, Jaya Sri Maha Bodhi, Dambulla Cave Temple, Arugam Bay"
+Place_932,6.588289,81.250394,13452,Religious,"Pidurangala Rock, Ambewela Farm, Sigiriya Museum, Polonnaruwa Ruins"
+Place_933,7.425896,81.101284,16472,"Beach, Adventure, Wildlife","Sigiriya Museum, Dambulla Cave Temple"
+Place_934,9.683726,81.477117,14613,Beach,"Mirissa Beach, Arugam Bay"
+Place_935,7.366119,80.375193,19361,"Nature, Adventure",Ruwanwelisaya Stupa
+Place_936,8.648922,80.986233,9316,Nature,Adam's Peak
+Place_937,7.327428,79.742154,15347,"Adventure, Beach","Jaya Sri Maha Bodhi, Galle Fort, Mirissa Beach, Udawalawe National Park"
+Place_938,7.005008,80.619819,19776,"Nature, Adventure, Cultural","Ruwanwelisaya Stupa, Haggala Garden, Ambewela Farm, Temple of the Tooth"
+Place_939,6.906237,79.710725,6927,Wildlife,Sigiriya Museum
+Place_940,9.09699,81.732318,6024,Cultural,Pidurangala Rock
+Place_941,9.70466,80.992355,19163,"Wildlife, Adventure","Mirissa Beach, Arugam Bay, Yala National Park, Little Adam's Peak, Adam's Peak"
+Place_942,6.930566,80.078265,14536,"Nature, Adventure, Religious","Arugam Bay, Yala National Park, Adam's Peak, Mirissa Beach"
+Place_943,8.758485,81.1497,16415,"Cultural, Wildlife, Adventure","Dambulla Cave Temple, Jungle Beach, Pidurangala Rock, Mirissa Beach, Arugam Bay"
+Place_944,7.33527,80.046191,7276,"Nature, Adventure",Gregory Lake
+Place_945,9.096196,80.832737,4789,Beach,Ambewela Farm
+Place_946,6.672981,81.615424,2948,Beach,Horton Plains
+Place_947,9.228535,80.49596,12444,"Cultural, Nature","Nine Arches Bridge, Haggala Garden, Sigiriya Museum, Udawalawe National Park"
+Place_948,7.166135,80.513666,17407,"Nature, Religious","Ambewela Farm, Arugam Bay, Gregory Lake, Pidurangala Rock"
+Place_949,7.503834,80.599906,19938,"Beach, Religious","Jaya Sri Maha Bodhi, Dambulla Cave Temple, Adam's Peak, Ambewela Farm"
+Place_950,8.061067,81.228284,8336,Religious,Haggala Garden
+Place_951,7.483967,81.668572,5878,"Beach, Nature",Pidurangala Rock
+Place_952,7.975252,81.121544,17332,"Beach, Wildlife, Nature","Nine Arches Bridge, Arugam Bay, Little Adam's Peak, Polonnaruwa Ruins, Ruwanwelisaya Stupa"
+Place_953,8.035495,81.616949,9921,"Wildlife, Cultural, Beach",Ambewela Farm
+Place_954,9.588021,80.482661,17127,Cultural,"Ambewela Farm, Dambulla Cave Temple, Jungle Beach, Ruwanwelisaya Stupa, Temple of the Tooth"
+Place_955,8.055834,81.314177,13085,Cultural,"Pidurangala Rock, Jungle Beach, Adam's Peak, Nine Arches Bridge, Horton Plains"
+Place_956,6.553039,80.718875,12287,"Beach, Wildlife","Udawalawe National Park, Jungle Beach, Haggala Garden"
+Place_957,8.749745,81.203612,6077,"Religious, Nature",Adam's Peak
+Place_958,7.572922,81.225776,13228,"Beach, Wildlife","Ruwanwelisaya Stupa, Jungle Beach, Galle Fort, Udawalawe National Park"
+Place_959,6.003478,79.77025,16181,Nature,"Ruwanwelisaya Stupa, Mirissa Beach, Jungle Beach, Temple of the Tooth, Sigiriya Museum"
+Place_960,9.332317,81.126152,16805,"Wildlife, Religious, Cultural","Gregory Lake, Ruwanwelisaya Stupa, Temple of the Tooth"
+Place_961,9.462338,80.642075,16790,Adventure,"Mirissa Beach, Yala National Park, Jaya Sri Maha Bodhi"
+Place_962,8.239815,79.706526,14413,"Wildlife, Beach, Adventure","Jaya Sri Maha Bodhi, Adam's Peak"
+Place_963,7.745099,81.459889,6233,Religious,Sigiriya Museum
+Place_964,6.215375,80.935575,19166,Beach,"Haggala Garden, Udawalawe National Park"
+Place_965,6.661061,81.395862,2891,"Adventure, Wildlife, Cultural","Pidurangala Rock, Arugam Bay, Temple of the Tooth"
+Place_966,7.867926,80.47215,6026,"Beach, Religious","Ambewela Farm, Gregory Lake, Yala National Park, Sigiriya Museum"
+Place_967,7.528167,79.938511,5685,"Religious, Adventure","Pidurangala Rock, Udawalawe National Park, Gregory Lake, Dambulla Cave Temple, Arugam Bay"
+Place_968,7.155041,81.476503,9069,Religious,Gregory Lake
+Place_969,7.329343,80.162245,13731,"Beach, Nature","Gregory Lake, Haggala Garden, Temple of the Tooth, Polonnaruwa Ruins, Sigiriya Museum"
+Place_970,7.924537,81.209192,3101,Wildlife,Ambewela Farm
+Place_971,7.058496,80.646014,8200,"Nature, Adventure","Ambewela Farm, Udawalawe National Park"
+Place_972,9.710784,80.301973,3755,"Wildlife, Beach","Jungle Beach, Mirissa Beach, Udawalawe National Park, Yala National Park"
+Place_973,8.871392,79.72363,9203,Beach,"Galle Fort, Nine Arches Bridge, Ambewela Farm, Jaya Sri Maha Bodhi, Horton Plains"
+Place_974,6.842039,79.975198,5455,"Wildlife, Religious, Beach","Temple of the Tooth, Galle Fort"
+Place_975,8.772821,79.923954,5606,Wildlife,"Ambewela Farm, Udawalawe National Park, Polonnaruwa Ruins, Adam's Peak"
+Place_976,6.508663,80.01406,3229,Nature,"Dambulla Cave Temple, Udawalawe National Park"
+Place_977,6.789345,81.405982,6165,Wildlife,"Little Adam's Peak, Galle Fort, Mirissa Beach, Yala National Park, Haggala Garden"
+Place_978,9.552635,80.222243,8502,"Adventure, Beach, Wildlife","Yala National Park, Arugam Bay, Haggala Garden"
+Place_979,6.747228,80.464166,7979,Religious,"Ambewela Farm, Udawalawe National Park, Jungle Beach"
+Place_980,7.450939,81.258721,14263,"Religious, Adventure","Sigiriya Museum, Horton Plains, Dambulla Cave Temple, Ruwanwelisaya Stupa, Mirissa Beach"
+Place_981,9.506375,79.952243,6583,"Cultural, Adventure","Mirissa Beach, Galle Fort, Nine Arches Bridge"
+Place_982,9.034193,81.715918,5011,"Beach, Adventure, Wildlife","Sigiriya Museum, Gregory Lake, Galle Fort"
+Place_983,8.030524,81.163561,8184,"Adventure, Religious",Horton Plains
+Place_984,7.91145,81.423145,2680,"Nature, Beach, Cultural","Polonnaruwa Ruins, Yala National Park, Adam's Peak, Ambewela Farm"
+Place_985,7.834596,80.014028,7269,"Cultural, Nature, Beach","Polonnaruwa Ruins, Jaya Sri Maha Bodhi, Horton Plains"
+Place_986,6.841821,80.402519,9248,Religious,Polonnaruwa Ruins
+Place_987,8.331918,79.988861,8978,"Beach, Cultural, Wildlife","Pidurangala Rock, Little Adam's Peak"
+Place_988,8.839091,81.488453,8362,"Religious, Nature, Beach",Jungle Beach
+Place_989,8.376334,80.730796,19560,Adventure,"Jaya Sri Maha Bodhi, Ambewela Farm, Horton Plains"
+Place_990,6.507931,80.241253,19453,"Religious, Wildlife, Adventure","Nine Arches Bridge, Ambewela Farm, Sigiriya Museum, Temple of the Tooth, Jungle Beach"
+Place_991,8.374766,81.64624,16603,Nature,"Jaya Sri Maha Bodhi, Arugam Bay, Ruwanwelisaya Stupa, Jungle Beach"
+Place_992,9.382073,80.606474,3747,"Cultural, Religious, Wildlife",Little Adam's Peak
+Place_993,8.104763,80.978616,3416,"Beach, Religious",Gregory Lake
+Place_994,8.449291,80.859654,9575,"Religious, Adventure",Ruwanwelisaya Stupa
+Place_995,8.453331,79.83345,5290,"Religious, Cultural, Nature",Gregory Lake
+Place_996,8.725197,79.705697,8547,Adventure,"Temple of the Tooth, Ambewela Farm, Little Adam's Peak"
+Place_997,6.832514,80.131088,6353,"Cultural, Religious, Beach",Little Adam's Peak
+Place_998,6.335641,81.267314,12687,"Religious, Adventure","Adam's Peak, Jaya Sri Maha Bodhi, Yala National Park, Ruwanwelisaya Stupa, Temple of the Tooth"
+Place_999,7.128853,80.641999,13222,Beach,"Pidurangala Rock, Arugam Bay"
+Place_1000,8.559834,81.283336,12138,Beach,"Adam's Peak,Udawalawe National Park, Mirissa Beach"
