@@ -1,12 +1,23 @@
-Our Group Members
+- Our Group Members
 
 IT21376290 -Shiwanthika D.N.H.
+
+
 IT21321368 - Samarasinghe.V.R
+
+
 IT21285042 - Ranasinghe R.C.C
+
+
 IT21210174 - Tharushi Lakshika V.G
 
-- SYSTEM DIAGRAM - 
+
+- SYSTEM DIAGRAM 
+
+  
 Drive link form the system diagram - https://drive.google.com/file/d/1MWgs3j4pYltdI7GYlXx7I5c343xLJev5/view?usp=sharing
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
