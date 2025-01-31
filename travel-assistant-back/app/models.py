@@ -60,9 +60,10 @@ class Recipe(db.Model):
     ingredients = db.Column(db.JSON, nullable=False)
     instructions = db.Column(db.JSON, nullable=False)
     cover_image = db.Column(db.String(150), nullable=False)
-    # user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)  # Foreign key to User
+   
+#  user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)  # Foreign key to User
 
-    # Establishing relationship with User
+#     Establishing relationship with User
     # user = db.relationship('User', backref=db.backref('recipes', lazy=True))
 
     def __repr__(self):
