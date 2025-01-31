@@ -74,7 +74,37 @@ pnpm dev
 # or
 bun dev
 ```
+## 🚀 Branching Model
 
+We follow the **GitHub Flow** branching model to ensure a simple and efficient development process.
+
+### 🌿 Branches
+
+- **`main`** – Always **stable** and ready for deployment.
+- **Feature branches** – Created from `main` for new features or fixes (`it21210174-VR-Feature `, `it21321368-Travel-Assistant`, `it21285042-Cousine-Hub`).
+
+### 🔄 Workflow
+
+#### 1️⃣ Create a Feature Branch, Make Changes, Commit, and Push  
+Create a new branch from `main` for your feature or bug fix, make your changes, commit them, and push the branch to the repository.  
+```sh
+git checkout -b feature-branch-name      # Create a new feature branch
+
+git add .                                # Stage changes
+git commit -m "Description of changes"    # Commit changes with a message
+
+git push origin feature-branch-name       # Push the branch to remote repository
+```
+### 2️⃣ Open a Pull Request 
+Open a Pull Request  on GitHub.
+Request a review and make necessary changes.
+
+### 3️⃣ Merge into main After Approval
+```sh
+git checkout main
+git merge feature-branch-name
+git push origin main
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
