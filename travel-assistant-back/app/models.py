@@ -51,22 +51,7 @@ class User(db.Model):
         return f'<User {self.first_name} {self.last_name}>'
 
 
-# Recipe Model
-class Recipe(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(100), nullable=False)
-    description = db.Column(db.Text, nullable=True)
-    cultural_background = db.Column(db.Text, nullable=True)
-    ingredients = db.Column(db.JSON, nullable=False)
-    instructions = db.Column(db.JSON, nullable=False)
-    cover_image = db.Column(db.String(150), nullable=False)
-    # user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)  # Foreign key to User
 
-    # Establishing relationship with User
-    # user = db.relationship('User', backref=db.backref('recipes', lazy=True))
-
-    def __repr__(self):
-        return f"<Recipe {self.name}>"
 
 # Iternery Model
 class Iternery(db.Model):
