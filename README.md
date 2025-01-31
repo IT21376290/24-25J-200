@@ -1,21 +1,31 @@
-- Our Group Members
+# Multi-Platform (Web/Mobile) Tourism Application
+## Our Group Members
 
-IT21376290 -Shiwanthika D.N.H.
+- IT21376290 -Shiwanthika D.N.H
+- IT21321368 - Samarasinghe.V.R
+- IT21285042 - Ranasinghe R.C.C
+- IT21210174 - Tharushi Lakshika V.G
 
-
-IT21321368 - Samarasinghe.V.R
-
-
-IT21285042 - Ranasinghe R.C.C
-
-
-IT21210174 - Tharushi Lakshika V.G
-
-
-- SYSTEM DIAGRAM 
-
+## Key Features
+**AI Landmark Detection**
   
-Drive link form the system diagram - https://drive.google.com/file/d/1MWgs3j4pYltdI7GYlXx7I5c343xLJev5/view?usp=sharing
+This uses custom AI models and the Google Vision API to provide instant, comprehensive information about landmarks via a smartphone camera. Tourists receive historical context, cultural significance, and user reviews, promoting authentic exploration and the discovery of hidden gems.
+
+**Personalized Travel Assistance**
+
+This offer highly personalized travel recommendations based on individual user preferences, budget, and time constraints. It generates customized itineraries, provides up-to-date information (routes), and interacts with users to understand their specific needs.
+
+**VR Tour Feature (Realistic Previews of Destinations)**
+
+VR feature lets traveler take virtual tours using Google VR SDK. The traveler can explore destinations in Sri Lanka with 360 view and high quality images, which helps to traveler plan better and know what to expect. 
+
+**Local Cuisine Recipe Hub**
+
+Our recipe hub offers a vast collection of Sri Lankan recipes. Travelers can recreate their favorite dishes from their travels right at their destination. The detailed guides, pictures, and tips make cooking fun and easy, adding a tasty twist to the travel experience.
+
+## Architecture Diagram. 
+
+Drive link to the architecture diagram. - https://drive.google.com/file/d/1MWgs3j4pYltdI7GYlXx7I5c343xLJev5/view?usp=sharing
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
